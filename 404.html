@@ -1,6 +1,6 @@
 
     <!DOCTYPE html>
-<html lang="en"
+<html lang="zh-CN"
         
       
 >
@@ -26,7 +26,7 @@
 <meta property="og:title" content="L-Sakura">
 <meta property="og:url" content="https://xjp66666.github.io/404.html">
 <meta property="og:site_name" content="L-Sakura">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="L-Sakura">
 <meta name="twitter:card" content="summary">
     
@@ -91,7 +91,7 @@
             </div>
             
                 <h2 id="subtitle-wrap">
-                    <a href="/" id="subtitle">NOT FOUND</a>
+                    <a href="/" id="subtitle">満 身 創 痍</a>
                 </h2>
             
         </div>
@@ -101,34 +101,34 @@
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/">Home</a>
+                        <a class="main-nav-link" href="/">首页</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/archives">Archives</a>
+                        <a class="main-nav-link" href="/archives">归档</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/about">About</a>
+                        <a class="main-nav-link" href="/about">关于</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/friend">Friend</a>
+                        <a class="main-nav-link" href="/friend">友链</a>
                     </span>
                 
             </nav>
             <nav id="sub-nav">
                 
                     <a id="nav-rss-link" class="nav-icon" href="/atom.xml"
-                       title="RSS Feed"></a>
+                       title="RSS 订阅"></a>
                 
                 
             </nav>
             <div id="search-form-wrap">
-                <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://xjp66666.github.io"></form>
+                <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://xjp66666.github.io"></form>
             </div>
         </div>
     </div>
@@ -173,6 +173,30 @@
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "QKG9THjHohn2tLNXwpBbNPY1-gzGzoHsz",
+            appKey: "XS6ev2Srw3kzRhOl3OAB69u5",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 
