@@ -8,7 +8,73 @@
     <author>
       <name>MoMo</name>
     </author>
-    <updated>2023-12-30T05:00:00.000Z</updated>
+    <updated>2024-09-03T04:00:00.000Z</updated>
+    <entry>
+        <id>https://xjp66666.github.io/2024/09/03/cs%E5%AD%A6%E4%B9%A0.0-cyber%20crime/</id>
+        <title>CS学习.0-Cyber Crime</title>
+        <link rel="alternate" href="https://xjp66666.github.io/2024/09/03/cs%E5%AD%A6%E4%B9%A0.0-cyber%20crime/"/>
+        <content type="html">&lt;h3 id=&#34;我为什么会选择cs课程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我为什么会选择cs课程&#34;&gt;&lt;/a&gt; 我为什么会选择cs课程？&lt;/h3&gt;
+&lt;p&gt;我是从小学大概三四年级（18年？）开始接触电脑吧，就产生了浓厚的兴趣。那时候智能手机其实早已兴起，全世界掀起了智能手机热潮，Apple推出了iphone7！！现在还留着一台用infuse看番！！、iphone8，微信支付已经遍及千家万户。然后，理所当然，电脑这个又笨重又贵的东西渐渐得被时代潮流淘汰了，那些年人们讨论的更多的是新一代iphone和某国产品牌哪家强，而不是intel又推出新一代u、NVIDIA推出20代显卡了&lt;/p&gt;
+&lt;p&gt;喜爱计算机大部分是遗传吧。我爹从小没见过手机电脑，一遇上就一发不可收拾，当然也深深感染了我。。他经常买配件装机，让后搞nas、翻墙、下bt，带我看电影——生化危机、终结者、异星觉醒！！都tm是重口。。我当时才三级啊啊啊啊！！然后，我就渐渐开始接触电脑游戏，pvz，Minecraft，GTA，以及，{4399^唯一真神}的死神vs火影，战火英雄，生死狙击。毕竟玩游戏需要技术支持，对硬件软件操作系统需要一定了解，就慢慢开始接触了cs&lt;/p&gt;
+&lt;p&gt;当然，这么多年的摸爬滚打下来不过还只是学了一点皮毛。什么翻墙装机双系统拆硬盘不过是鸡毛蒜皮，我还真没有浅下心来深入学一门语言，现在顶多算个小白。。&lt;/p&gt;
+&lt;p&gt;编不下去了，反正最后选择了cs课程，希望能开开心心的学习。当然，我会在博客上记录我学习过程的点滴&lt;/p&gt;
+&lt;p&gt;那么开始吧。&lt;/p&gt;
+&lt;h3 id=&#34;lesson-zerocyber-crime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lesson-zerocyber-crime&#34;&gt;&lt;/a&gt; Lesson Zero:Cyber Crime&lt;/h3&gt;
+&lt;h4 id=&#34;第一版&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一版&#34;&gt;&lt;/a&gt; 第一版:&lt;/h4&gt;
+&lt;p&gt;Type of crime:&lt;/p&gt;
+&lt;h5 id=&#34;identity-theft&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#identity-theft&#34;&gt;&lt;/a&gt; Identity theft&lt;/h5&gt;
+&lt;p&gt;What type of people are targeted:&lt;br&gt;
+++ ALL ++&lt;br&gt;
+Additionally,government staff has the power to get our idenity&lt;/p&gt;
+&lt;p&gt;How are people targeted:&lt;br&gt;
+Signing apps and websites with personal information.&lt;/p&gt;
+&lt;p&gt;How to prevent from it:&lt;br&gt;
+This is actually inevitable for some reason,because we can’t work without certain apps.Here are some tips to try to avoid leakage of private details:&lt;br&gt;
+·Try to use safe browser such as tor/duckduckgo.&lt;br&gt;
+·Do not tell any net-friend your name,address and so on,even if you trust them.&lt;br&gt;
+·register services with an email that dont’t need your phone number&lt;/p&gt;
+&lt;p&gt;Type of crime:&lt;/p&gt;
+&lt;h5 id=&#34;iternet-fraud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#iternet-fraud&#34;&gt;&lt;/a&gt; Iternet fraud&lt;/h5&gt;
+&lt;p&gt;What type of people are targeted:&lt;br&gt;
+++ All ++&lt;/p&gt;
+&lt;p&gt;How are people targeted:&lt;br&gt;
+Those who are without suspiction&lt;/p&gt;
+&lt;p&gt;How to prevent from it:&lt;br&gt;
+· Remember”there is no such thing as a free lunch”,&lt;br&gt;
+do not response any of the scam messages.&lt;/p&gt;
+&lt;p&gt;Type of crime:&lt;/p&gt;
+&lt;h5 id=&#34;theft-and-sale-of-corporate-data&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#theft-and-sale-of-corporate-data&#34;&gt;&lt;/a&gt; Theft and sale of corporate data.&lt;/h5&gt;
+&lt;p&gt;What type of people are targeted:&lt;br&gt;
+Large company servers/workers&lt;/p&gt;
+&lt;p&gt;How are people targeted:&lt;br&gt;
+Holding sensitive data/business secrets&lt;/p&gt;
+&lt;p&gt;How to prevent from it:&lt;br&gt;
+·Make sure to enable 2FA for your account.&lt;br&gt;
+·Do not show any sensitive data to neither your friends or companion,not even your family.&lt;/p&gt;
+&lt;p&gt;Type of crime:&lt;/p&gt;
+&lt;h5 id=&#34;ransomware-attacks&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ransomware-attacks&#34;&gt;&lt;/a&gt; Ransomware attacks&lt;/h5&gt;
+&lt;p&gt;What type of people are targeted:&lt;br&gt;
+Beginner in computers&lt;br&gt;
+Android users&lt;/p&gt;
+&lt;p&gt;How are people targeted:&lt;br&gt;
+By pretending virus is an unlocked  apk/exe file&lt;/p&gt;
+&lt;p&gt;How to prevent from it:&lt;br&gt;
+·Do not donwload any unknowed apps&lt;br&gt;
+·Be sure to install antivirus softwares if you’re not very knowledgeable about computers&lt;/p&gt;
+&lt;p&gt;Type of crime:&lt;/p&gt;
+&lt;h5 id=&#34;pirate&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#pirate&#34;&gt;&lt;/a&gt; Pirate&lt;/h5&gt;
+&lt;p&gt;What type of people are targeted:&lt;br&gt;
+++ All ++&lt;/p&gt;
+&lt;p&gt;How are people targeted:&lt;br&gt;
+Downloading bt files.&lt;/p&gt;
+&lt;p&gt;How to prevent from it:&lt;br&gt;
+Downloading pirated content (movies, games, music) is illegal and exposes you to potential hacker attacks, especially if you are not using a VPN.Support official products.&lt;/p&gt;
+</content>
+        <category term="数码 - cs学习笔记" scheme="https://xjp66666.github.io/categories/%E6%95%B0%E7%A0%81-cs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
+        <category term="cs学习" scheme="https://xjp66666.github.io/tags/cs%E5%AD%A6%E4%B9%A0/" />
+        <updated>2024-09-03T04:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://xjp66666.github.io/2023/12/30/%E5%A6%82%E4%BD%95%E7%94%A8spek%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E6%97%A0%E6%8D%9F/</id>
         <title>如何用spek辨别真假无损</title>
