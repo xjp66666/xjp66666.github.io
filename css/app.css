@@ -2237,6 +2237,12 @@ main >.inner {
 .social .item.github i {
   color: #191717;
 }
+.social .item.twitter::before {
+  background-color: #00aff0;
+}
+.social .item.twitter i {
+  color: #00aff0;
+}
 .social .item.zhihu::before {
   background-color: #1e88e5;
 }
@@ -2254,6 +2260,24 @@ main >.inner {
 }
 .social .item.email i {
   color: #55acd5;
+}
+.social .item.facebook::before {
+  background-color: aceboo;
+}
+.social .item.facebook i {
+  color: aceboo;
+}
+.social .item.youtube::before {
+  background-color: outub;
+}
+.social .item.youtube i {
+  color: outub;
+}
+.social .item.instagram::before {
+  background-color: nstagra;
+}
+.social .item.instagram i {
+  color: nstagra;
 }
 .social .item.douban::before {
   background-color: ouba;
