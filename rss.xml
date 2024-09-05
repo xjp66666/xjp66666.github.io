@@ -10,12 +10,52 @@
         </author>
         <description></description>
         <language>zh-CN,en,default</language>
-        <pubDate>Tue, 03 Sep 2024 00:00:00 -0400</pubDate>
-        <lastBuildDate>Tue, 03 Sep 2024 00:00:00 -0400</lastBuildDate>
+        <pubDate>Thu, 05 Sep 2024 00:00:00 -0400</pubDate>
+        <lastBuildDate>Thu, 05 Sep 2024 00:00:00 -0400</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.0-cyber%20crime/</guid>
-            <title>CS学习.0-Cyber Crime</title>
-            <link>https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.0-cyber%20crime/</link>
+            <guid isPermalink="true">https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/</guid>
+            <title>CS学习.2-Careers</title>
+            <link>https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/</link>
+            <category term="计算机科学computerscience" scheme="https://xjp66666.github.io/categories/cs/" />
+            <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
+            <category term="cs学习笔记" scheme="https://xjp66666.github.io/tags/cs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+            <pubDate>Thu, 05 Sep 2024 00:00:00 -0400</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;cs-careers&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cs-careers&#34;&gt;&lt;/a&gt; CS Careers&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;By Jason Liang&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1st-careercomputer-engineer&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1st-careercomputer-engineer&#34;&gt;&lt;/a&gt; 1st career:computer engineer&lt;/h3&gt;
+&lt;p&gt;Median Salary:&lt;/p&gt;
+&lt;p&gt;$82,917 per year&lt;/p&gt;
+&lt;p&gt;Brief Description:&lt;/p&gt;
+&lt;p&gt;·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.&lt;/p&gt;
+&lt;p&gt;4 Duties or Responsibilities：&lt;/p&gt;
+&lt;p&gt;1.test computer systems.&lt;/p&gt;
+&lt;p&gt;2.Repair servers/computers&lt;/p&gt;
+&lt;p&gt;3.create programs&lt;/p&gt;
+&lt;p&gt;4.。&lt;/p&gt;
+&lt;p&gt;Education Pathway:&lt;/p&gt;
+&lt;p&gt;Most entry-level computer engineering jobs require at least a bachelor’s in computer science, computer engineering, or electrical engineering.&lt;/p&gt;
+&lt;p&gt;Experience Required:&lt;/p&gt;
+&lt;p&gt;Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.&lt;/p&gt;
+&lt;h3 id=&#34;2nd-careercomputer-network-architect&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2nd-careercomputer-network-architect&#34;&gt;&lt;/a&gt; 2nd career:Computer network architect&lt;/h3&gt;
+&lt;p&gt;Median Salary:&lt;/p&gt;
+&lt;p&gt;$129,566 per year&lt;/p&gt;
+&lt;p&gt;Brief Description:&lt;/p&gt;
+&lt;p&gt;·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.&lt;/p&gt;
+&lt;p&gt;4 Duties or Responsibilities:&lt;/p&gt;
+&lt;p&gt;1.designing, building, deploying and maintaining such networks&lt;/p&gt;
+&lt;p&gt;2.gathering the organization’s requirements,&lt;/p&gt;
+&lt;p&gt;3.planning networks based on the needs&lt;/p&gt;
+&lt;p&gt;4.researching new technologies that may be useful to the organization and applying upgrades&lt;/p&gt;
+&lt;p&gt;Education Pathway:&lt;/p&gt;
+&lt;p&gt;Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.&lt;/p&gt;
+&lt;p&gt;Experience Required:&lt;/p&gt;
+&lt;p&gt;Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.0-1-cyber%20crime/</guid>
+            <title>CS学习.0-1-Cyber Crime</title>
+            <link>https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.0-1-cyber%20crime/</link>
             <category term="计算机科学computerscience" scheme="https://xjp66666.github.io/categories/cs/" />
             <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
             <category term="cs学习笔记" scheme="https://xjp66666.github.io/tags/cs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
@@ -26,7 +66,7 @@
 &lt;p&gt;当然，这么多年的摸爬滚打下来不过还只是学了一点皮毛。什么翻墙装机双系统拆硬盘不过是鸡毛蒜皮，我还真没有浅下心来深入学一门语言，现在顶多算个小白。。&lt;/p&gt;
 &lt;p&gt;编不下去了，反正最后选择了cs课程，希望能开开心心的学习。当然，我会在博客上记录我学习过程的点滴&lt;/p&gt;
 &lt;p&gt;那么开始吧。&lt;/p&gt;
-&lt;h3 id=&#34;lesson-zerocyber-crime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lesson-zerocyber-crime&#34;&gt;&lt;/a&gt; Lesson Zero:Cyber Crime&lt;/h3&gt;
+&lt;h3 id=&#34;lesson-1cyber-crime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lesson-1cyber-crime&#34;&gt;&lt;/a&gt; Lesson 1:Cyber Crime&lt;/h3&gt;
 &lt;h4 id=&#34;第一版&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一版&#34;&gt;&lt;/a&gt; 第一版:&lt;/h4&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
 &lt;h5 id=&#34;identity-theft&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#identity-theft&#34;&gt;&lt;/a&gt; Identity theft&lt;/h5&gt;
