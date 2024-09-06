@@ -7,18 +7,6 @@
     "home_page_url": "https://xjp66666.github.io",
     "items": [
         {
-            "id": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/",
-            "url": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/",
-            "title": "CS学习.2-Careers",
-            "date_published": "2024-09-05T04:00:00.000Z",
-            "content_html": "<h2 id=\"cs-careers\"><a class=\"markdownIt-Anchor\" href=\"#cs-careers\"></a> CS Careers</h2>\n<p><em>By Jason Liang</em></p>\n<h3 id=\"1st-careercomputer-engineer\"><a class=\"markdownIt-Anchor\" href=\"#1st-careercomputer-engineer\"></a> 1st career:computer engineer</h3>\n<p>Median Salary:</p>\n<p>$82,917 per year</p>\n<p>Brief Description:</p>\n<p>·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.</p>\n<p>4 Duties or Responsibilities：</p>\n<p>1.test computer systems.</p>\n<p>2.Repair servers/computers</p>\n<p>3.create programs</p>\n<p>4.。</p>\n<p>Education Pathway:</p>\n<p>Most entry-level computer engineering jobs require at least a bachelor’s in computer science, computer engineering, or electrical engineering.</p>\n<p>Experience Required:</p>\n<p>Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.</p>\n<h3 id=\"2nd-careercomputer-network-architect\"><a class=\"markdownIt-Anchor\" href=\"#2nd-careercomputer-network-architect\"></a> 2nd career:Computer network architect</h3>\n<p>Median Salary:</p>\n<p>$129,566 per year</p>\n<p>Brief Description:</p>\n<p>·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.</p>\n<p>4 Duties or Responsibilities:</p>\n<p>1.designing, building, deploying and maintaining such networks</p>\n<p>2.gathering the organization’s requirements,</p>\n<p>3.planning networks based on the needs</p>\n<p>4.researching new technologies that may be useful to the organization and applying upgrades</p>\n<p>Education Pathway:</p>\n<p>Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.</p>\n<p>Experience Required:</p>\n<p>Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.</p>\n",
-            "tags": [
-                "计算机科学computerscience",
-                "数码",
-                "cs学习笔记"
-            ]
-        },
-        {
             "id": "https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/",
             "url": "https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/",
             "title": "玩过のGal",
@@ -29,6 +17,18 @@
                 "二次元杂谈",
                 "Galgame",
                 "黄油"
+            ]
+        },
+        {
+            "id": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/",
+            "url": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.2-Careers/",
+            "title": "CS学习.2-Careers",
+            "date_published": "2024-09-05T04:00:00.000Z",
+            "content_html": "<h2 id=\"cs-careers\"><a class=\"markdownIt-Anchor\" href=\"#cs-careers\"></a> CS Careers</h2>\n<p><em>By Jason Liang</em></p>\n<h3 id=\"1st-careercomputer-engineer\"><a class=\"markdownIt-Anchor\" href=\"#1st-careercomputer-engineer\"></a> 1st career:computer engineer</h3>\n<p>Median Salary:</p>\n<p>$82,917 per year</p>\n<p>Brief Description:</p>\n<p>·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.</p>\n<p>4 Duties or Responsibilities：</p>\n<p>1.test computer systems.</p>\n<p>2.Repair servers/computers</p>\n<p>3.create programs</p>\n<p>4.。</p>\n<p>Education Pathway:</p>\n<p>Most entry-level computer engineering jobs require at least a bachelor’s in computer science, computer engineering, or electrical engineering.</p>\n<p>Experience Required:</p>\n<p>Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.</p>\n<h3 id=\"2nd-careercomputer-network-architect\"><a class=\"markdownIt-Anchor\" href=\"#2nd-careercomputer-network-architect\"></a> 2nd career:Computer network architect</h3>\n<p>Median Salary:</p>\n<p>$129,566 per year</p>\n<p>Brief Description:</p>\n<p>·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.</p>\n<p>4 Duties or Responsibilities:</p>\n<p>1.designing, building, deploying and maintaining such networks</p>\n<p>2.gathering the organization’s requirements,</p>\n<p>3.planning networks based on the needs</p>\n<p>4.researching new technologies that may be useful to the organization and applying upgrades</p>\n<p>Education Pathway:</p>\n<p>Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.</p>\n<p>Experience Required:</p>\n<p>Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.</p>\n",
+            "tags": [
+                "计算机科学computerscience",
+                "数码",
+                "cs学习笔记"
             ]
         },
         {
