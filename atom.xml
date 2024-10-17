@@ -14,16 +14,16 @@
         <title>在iPhone上游玩Gal(篇2)</title>
         <link rel="alternate" href="https://xjp66666.github.io/2024/10/15/%E5%9C%A8iPhone%E4%B8%8A%E6%B8%B8%E7%8E%A9Gal(%E7%AF%872)/"/>
         <content type="html">&lt;p&gt;直入主题&lt;/p&gt;
-&lt;h2 id=&#34;spark小说们spark-novels&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#spark小说们spark-novels&#34;&gt;&lt;/a&gt; Spark小说们（Spark novels）&lt;/h2&gt;
-&lt;p&gt;最牛逼的renpy引擎模拟，支持zip，apk（这个是真牛逼啊，ios运行apk）格式解包重构。樱之诗，素晴日，以及大部分slg都是renpy引擎移植&lt;br&gt;
-App Store 售价50人民币&lt;/p&gt;
-&lt;h2 id=&#34;atroid&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#atroid&#34;&gt;&lt;/a&gt; atroid+&lt;/h2&gt;
-&lt;p&gt;可运行artemis引擎的游戏（樱之刻，富婆妹），这本来是流行在韩文论坛的一个ipa包，被万能的中国扒出来了，这里提供下载资源&lt;/p&gt;
-&lt;p&gt;贴吧有大佬研究出来无bug运行樱之刻的方法，参见：![]&lt;/p&gt;
-&lt;h2 id=&#34;虚拟机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#虚拟机&#34;&gt;&lt;/a&gt; 虚拟机&lt;/h2&gt;
-&lt;p&gt;utm运行Windows，理论上只要内存够大就行，实际没试过&lt;/p&gt;
-&lt;h2 id=&#34;ipa商店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ipa商店&#34;&gt;&lt;/a&gt; ipa商店&lt;/h2&gt;
-&lt;p&gt;一些gal也会上架AppStore（key社，命运石之门），有大佬解包ipa，去ipastore下载自签&lt;/p&gt;
+&lt;h2 id=&#34;spark小说们spark-novels&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#spark小说们spark-novels&#34;&gt;#&lt;/a&gt; Spark 小说们（Spark novels）&lt;/h2&gt;
+&lt;p&gt;最牛逼的 renpy 引擎模拟，支持 zip，apk（这个是真牛逼啊，ios 运行 apk）格式解包重构。樱之诗，素晴日，以及大部分 slg 都是 renpy 引擎移植&lt;br&gt;
+ App Store 售价 50 人民币&lt;/p&gt;
+&lt;h2 id=&#34;atroid&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#atroid&#34;&gt;#&lt;/a&gt; atroid+&lt;/h2&gt;
+&lt;p&gt;可运行 artemis 引擎的游戏（樱之刻，富婆妹），这本来是流行在韩文论坛的一个 ipa 包，被万能的中国扒出来了，这里提供下载资源&lt;/p&gt;
+&lt;p&gt;贴吧有大佬研究出来无 bug 运行樱之刻的方法，参见：![]&lt;/p&gt;
+&lt;h2 id=&#34;虚拟机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟机&#34;&gt;#&lt;/a&gt; 虚拟机&lt;/h2&gt;
+&lt;p&gt;utm 运行 Windows，理论上只要内存够大就行，实际没试过&lt;/p&gt;
+&lt;h2 id=&#34;ipa商店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ipa商店&#34;&gt;#&lt;/a&gt; ipa 商店&lt;/h2&gt;
+&lt;p&gt;一些 gal 也会上架 AppStore（key 社，命运石之门），有大佬解包 ipa，去 ipastore 下载自签&lt;/p&gt;
 </content>
         <category term="数码" scheme="https://xjp66666.github.io/categories/%E6%95%B0%E7%A0%81/" />
         <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
@@ -36,28 +36,28 @@ App Store 售价50人民币&lt;/p&gt;
         <link rel="alternate" href="https://xjp66666.github.io/2024/09/11/cs/cs%E5%AD%A6%E4%B9%A0.2-1-Scratch%20Basics/"/>
         <content type="html">&lt;p&gt;Assignment #2.1: Scratch Basics&lt;/p&gt;
 &lt;p&gt;-Jason Liang&lt;/p&gt;
-&lt;h2 id=&#34;objective&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#objective&#34;&gt;&lt;/a&gt; Objective&lt;/h2&gt;
+&lt;h2 id=&#34;objective&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#objective&#34;&gt;#&lt;/a&gt; Objective&lt;/h2&gt;
 &lt;p&gt;Complete each task using Scratch to help develop a programming foundation.&lt;/p&gt;
-&lt;h2 id=&#34;tasks&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#tasks&#34;&gt;&lt;/a&gt; Tasks&lt;/h2&gt;
-&lt;h3 id=&#34;1animation&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1animation&#34;&gt;&lt;/a&gt; 1.Animation&lt;/h3&gt;
+&lt;h2 id=&#34;tasks&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tasks&#34;&gt;#&lt;/a&gt; Tasks&lt;/h2&gt;
+&lt;h3 id=&#34;1animation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1animation&#34;&gt;#&lt;/a&gt; 1.Animation&lt;/h3&gt;
 &lt;p&gt;Create a short animation short animation. The sprite(s) should move around the screen and use multiple costumes.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/1.png&#34; alt&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2key-input&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2key-input&#34;&gt;&lt;/a&gt; 2.Key Input&lt;/h3&gt;
+&lt;h3 id=&#34;2key-input&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2key-input&#34;&gt;#&lt;/a&gt; 2.Key Input&lt;/h3&gt;
 &lt;p&gt;Create a program with a sprite that moves up/down/left/right using the arrow keys.&lt;br&gt;
 For a smoother program, use a forever loop instead of separate events for each movement.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/2.png&#34; alt&gt;&lt;/p&gt;
-&lt;h3 id=&#34;3obstacles&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3obstacles&#34;&gt;&lt;/a&gt; 3.Obstacles&lt;/h3&gt;
+&lt;h3 id=&#34;3obstacles&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3obstacles&#34;&gt;#&lt;/a&gt; 3.Obstacles&lt;/h3&gt;
 &lt;p&gt;Create a program with a sprite that moves around where there are at least two barriers that the sprite cannot go through.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/3.png&#34; alt&gt;&lt;/p&gt;
-&lt;h3 id=&#34;4dropping-things&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4dropping-things&#34;&gt;&lt;/a&gt; 4.Dropping Things&lt;/h3&gt;
+&lt;h3 id=&#34;4dropping-things&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4dropping-things&#34;&gt;#&lt;/a&gt; 4.Dropping Things&lt;/h3&gt;
 &lt;p&gt;Create a program with multiple items falling from the sky that your character needs to avoid.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/4.png&#34; alt&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/5.png&#34; alt&gt;&lt;/p&gt;
-&lt;h3 id=&#34;5pickup&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5pickup&#34;&gt;&lt;/a&gt; 5.Pickup&lt;/h3&gt;
+&lt;h3 id=&#34;5pickup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5pickup&#34;&gt;#&lt;/a&gt; 5.Pickup&lt;/h3&gt;
 &lt;p&gt;Create a program where your character needs to pick up coins from around the screen. There must be at least five coins and the game should end when they collect them all.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/6.png&#34; alt&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/12/7.png&#34; alt&gt;&lt;/p&gt;
-&lt;h2 id=&#34;submission&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#submission&#34;&gt;&lt;/a&gt; Submission&lt;/h2&gt;
+&lt;h2 id=&#34;submission&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#submission&#34;&gt;#&lt;/a&gt; Submission&lt;/h2&gt;
 &lt;p&gt;●	One document containing screenshots of the code for each program&lt;br&gt;
 ○	Your tasks should be labelled and in the proper order&lt;/p&gt;
 &lt;p&gt;●	Demonstration&lt;br&gt;
@@ -72,39 +72,39 @@ For a smoother program, use a forever loop instead of separate events for each m
         <id>https://xjp66666.github.io/2024/09/09/%E5%A6%82%E4%BD%95%E5%9C%A8iPhone%E4%B8%8A%E6%B8%B8%E7%8E%A9Galgame(%E6%97%A0%E9%9C%80%E8%B6%8A%E7%8B%B1)/</id>
         <title>如何在iPhone上游玩Galgame(无需越狱)</title>
         <link rel="alternate" href="https://xjp66666.github.io/2024/09/09/%E5%A6%82%E4%BD%95%E5%9C%A8iPhone%E4%B8%8A%E6%B8%B8%E7%8E%A9Galgame(%E6%97%A0%E9%9C%80%E8%B6%8A%E7%8B%B1)/"/>
-        <content type="html">&lt;h2 id=&#34;intro&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#intro&#34;&gt;&lt;/a&gt; intro&lt;/h2&gt;
-&lt;p&gt;&lt;s&gt;本人深受ios迫害&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;ios想推gal无法支装？想随时随地和老婆互动却无法实现？&lt;/p&gt;
-&lt;p&gt;本篇将讲述如何实现ios运行gal几种方法&lt;/p&gt;
-&lt;p&gt;实测ios17及以下均可实现&lt;/p&gt;
-&lt;h2 id=&#34;准备&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#准备&#34;&gt;&lt;/a&gt; 准备&lt;/h2&gt;
-&lt;p&gt;准备一台iPhone&lt;/p&gt;
-&lt;h2 id=&#34;安装应用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#安装应用&#34;&gt;&lt;/a&gt; 安装应用&lt;/h2&gt;
-&lt;p&gt;打开应用商店，搜索xp3player(对应安卓的krkr模拟器)和解压专家，支付并下载&lt;/p&gt;
-&lt;p&gt;如果实在拿不出一顿饭的钱支付(本人也拿不出)，可采取以下方案：&lt;/p&gt;
-&lt;p&gt;1.找已购买的富哥解包ipa，自行签名&lt;br&gt;
-2.找富哥要共享账号：&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;接下来是RPGviewer和onsplayer&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;由于RPGviewer只支持一小部分游戏引擎，可以选择不下载&lt;/p&gt;
-&lt;p&gt;onsplayer今年下架，这里提供一个ipa包，请自行下载并签名:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kc2JuLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2xpYW5namFfc3R1ZGVudHNfZHNibl9vcmcvRWRUdFA5ZDVKTTlPZ2c0NnlMbzJweEVCQk5Qb3FjZlYxTE9vWGY1bmY4VFZuQT9lPTBqNnliNA==&#34;&gt;ONSplayer&lt;/span&gt;&lt;/p&gt;
+        <content type="html">&lt;h2 id=&#34;intro&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intro&#34;&gt;#&lt;/a&gt; intro&lt;/h2&gt;
+&lt;p&gt;&lt;s&gt;本人深受 ios 迫害&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;ios 想推 gal 无法支装？想随时随地和老婆互动却无法实现？&lt;/p&gt;
+&lt;p&gt;本篇将讲述如何实现 ios 运行 gal 几种方法&lt;/p&gt;
+&lt;p&gt;实测 ios17 及以下均可实现&lt;/p&gt;
+&lt;h2 id=&#34;准备&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备&#34;&gt;#&lt;/a&gt; 准备&lt;/h2&gt;
+&lt;p&gt;准备一台 iPhone&lt;/p&gt;
+&lt;h2 id=&#34;安装应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装应用&#34;&gt;#&lt;/a&gt; 安装应用&lt;/h2&gt;
+&lt;p&gt;打开应用商店，搜索 xp3player (对应安卓的 krkr 模拟器) 和解压专家，支付并下载&lt;/p&gt;
+&lt;p&gt;如果实在拿不出一顿饭的钱支付 (本人也拿不出)，可采取以下方案：&lt;/p&gt;
+&lt;p&gt;1. 找已购买的富哥解包 ipa，自行签名&lt;br&gt;
+ 2. 找富哥要共享账号：&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;接下来是 RPGviewer 和 onsplayer&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;由于 RPGviewer 只支持一小部分游戏引擎，可以选择不下载&lt;/p&gt;
+&lt;p&gt;onsplayer 今年下架，这里提供一个 ipa 包，请自行下载并签名:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kc2JuLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2xpYW5namFfc3R1ZGVudHNfZHNibl9vcmcvRWRUdFA5ZDVKTTlPZ2c0NnlMbzJweEVCQk5Qb3FjZlYxTE9vWGY1bmY4VFZuQT9lPTBqNnliNA==&#34;&gt;ONSplayer&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;关于如何签名请看另一篇文章：)&lt;/p&gt;
-&lt;h2 id=&#34;找资源并导入&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#找资源并导入&#34;&gt;&lt;/a&gt; 找资源并导入&lt;/h2&gt;
+&lt;h2 id=&#34;找资源并导入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#找资源并导入&#34;&gt;#&lt;/a&gt; 找资源并导入&lt;/h2&gt;
 &lt;p&gt;最考验能力的一步&lt;/p&gt;
-&lt;p&gt;寻找带有&amp;quot;krkr&amp;quot;(对应xp3player)和&amp;quot;ONS&amp;quot;(对应onsplayer)标签的gal资源&lt;/p&gt;
-&lt;p&gt;找资源就看你个人的本事了，无论是是谷歌，百度，qq群或者tg群组都能找到资源，这里不做详细阐述&lt;/p&gt;
-&lt;p&gt;下载完成后找到app&amp;quot;文件&amp;quot;中的下载（如果是用safari浏览器，这就是下载路径，其它app可能储存在文件中，也可能在app内部），点入文件，&lt;br&gt;
-点击&amp;quot;共享&amp;quot;图标，选择copy到解压专家。&lt;/p&gt;
+&lt;p&gt;寻找带有 &amp;quot;krkr&amp;quot;(对应 xp3player) 和 &amp;quot;ONS&amp;quot;(对应 onsplayer) 标签的 gal 资源&lt;/p&gt;
+&lt;p&gt;找资源就看你个人的本事了，无论是是谷歌，百度，qq 群或者 tg 群组都能找到资源，这里不做详细阐述&lt;/p&gt;
+&lt;p&gt;下载完成后找到 app&amp;quot;文件&amp;quot; 中的下载（如果是用 safari 浏览器，这就是下载路径，其它 app 可能储存在文件中，也可能在 app 内部），点入文件，&lt;br&gt;
+点击 &amp;quot;共享&amp;quot; 图标，选择 copy 到解压专家。&lt;/p&gt;
 &lt;p&gt;打开解压专家，解压文件，让后选中游戏的根目录，注意，一定是根目录（指的是点开此文件夹之后即是游戏本体文件，不再有其他嵌套文件夹）！！&lt;/p&gt;
 &lt;p&gt;接下来的步骤看软件分别操作：&lt;/p&gt;
-&lt;p&gt;xp3player：选中文件夹，点击共享，向左滑动选择更多操作，向下拉，选择xp3player，完成复制&lt;br&gt;
-由于实测xp3player运行inbox文件夹里的文件会卡退，所以还需要一步&lt;/p&gt;
-&lt;p&gt;进入xp3player，进入inbox，长按选中你刚刚复制过来的文件夹，选择移动，移出inbox文件夹（如果卡退就退出app重试，xp3player的bug，一定要有耐心多试几次！！）&lt;br&gt;
-然后进入游戏文件夹，点击后缀名为xp3的文件，即可运行游戏&lt;/p&gt;
-&lt;p&gt;onsplayer：选中文件夹，点击储存到文件，选择iPhone本地目录，找到onsplayer本地目录，储存到此目录下。进入app即可运行游戏&lt;/p&gt;
+&lt;p&gt;xp3player：选中文件夹，点击共享，向左滑动选择更多操作，向下拉，选择 xp3player，完成复制&lt;br&gt;
+由于实测 xp3player 运行 inbox 文件夹里的文件会卡退，所以还需要一步&lt;/p&gt;
+&lt;p&gt;进入 xp3player，进入 inbox，长按选中你刚刚复制过来的文件夹，选择移动，移出 inbox 文件夹（如果卡退就退出 app 重试，xp3player 的 bug，一定要有耐心多试几次！！）&lt;br&gt;
+然后进入游戏文件夹，点击后缀名为 xp3 的文件，即可运行游戏&lt;/p&gt;
+&lt;p&gt;onsplayer：选中文件夹，点击储存到文件，选择 iPhone 本地目录，找到 onsplayer 本地目录，储存到此目录下。进入 app 即可运行游戏&lt;/p&gt;
 &lt;p&gt;注意：如果游戏无法运行可能是：&lt;/p&gt;
-&lt;p&gt;1.储存到了其他目录&lt;/p&gt;
-&lt;p&gt;2.选择了不对应的app&lt;/p&gt;
-&lt;p&gt;3.文件损坏&lt;/p&gt;
+&lt;p&gt;1. 储存到了其他目录&lt;/p&gt;
+&lt;p&gt;2. 选择了不对应的 app&lt;/p&gt;
+&lt;p&gt;3. 文件损坏&lt;/p&gt;
 &lt;p&gt;请对照以上步骤重试，或更换资源。&lt;/p&gt;
 </content>
         <category term="数码" scheme="https://xjp66666.github.io/categories/%E6%95%B0%E7%A0%81/" />
@@ -116,20 +116,20 @@ For a smoother program, use a forever loop instead of separate events for each m
         <id>https://xjp66666.github.io/2024/09/07/AirPods%20Pro2%20%E6%B7%B1%E5%85%A5%E4%BD%93%E9%AA%8C/</id>
         <title>AirPods 2 深入体验</title>
         <link rel="alternate" href="https://xjp66666.github.io/2024/09/07/AirPods%20Pro2%20%E6%B7%B1%E5%85%A5%E4%BD%93%E9%AA%8C/"/>
-        <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;如果买蓝牙耳机，最先考虑哪款？&lt;/p&gt;
 &lt;p&gt;回答可能会五花八门，但最多的无非三个：&lt;/p&gt;
 &lt;p&gt;Airpods。&lt;/p&gt;
 &lt;p&gt;Airpods。&lt;/p&gt;
 &lt;p&gt;Airpods。&lt;/p&gt;
-&lt;p&gt;作为消费级蓝牙耳机的鼻祖，自16年Apple推出第一代AirPods以来，便带动了新兴蓝牙耳机产业飞速发展，以至于现在各家各户从老到小人手一副或多副蓝牙耳机，已经深深成为日常生活不可或缺的一部分。当然，在&amp;quot;Apple&amp;quot;这一IP的加持下，AirPods一经发售便畅销不断，今年即将推出AirPods第四代，而第一代Pods距今发售近8年但仍有千万级的年销量，为Apple带来巨额利润。&lt;/p&gt;
-&lt;p&gt;各个品牌近几年都相继推出了各家的蓝牙耳机，倍思、华为、绿联、森海塞尔，以及&amp;quot;华强北&amp;quot;，但无论如何翻新不过都是对AirPods的拙劣模仿，从外形、触控功能、降噪，都能多少看出AirPods的影子，其影响力可见一斑。&lt;/p&gt;
-&lt;p&gt;本人有幸在今年8月搞到一副AirPods Pro (2nd generation type-c),使用一个月颇有感受，故记录于此&lt;/p&gt;
+&lt;p&gt;作为消费级蓝牙耳机的鼻祖，自 16 年 Apple 推出第一代 AirPods 以来，便带动了新兴蓝牙耳机产业飞速发展，以至于现在各家各户从老到小人手一副或多副蓝牙耳机，已经深深成为日常生活不可或缺的一部分。当然，在 &amp;quot;Apple&amp;quot; 这一 IP 的加持下，AirPods 一经发售便畅销不断，今年即将推出 AirPods 第四代，而第一代 Pods 距今发售近 8 年但仍有千万级的年销量，为 Apple 带来巨额利润。&lt;/p&gt;
+&lt;p&gt;各个品牌近几年都相继推出了各家的蓝牙耳机，倍思、华为、绿联、森海塞尔，以及 &amp;quot;华强北&amp;quot;，但无论如何翻新不过都是对 AirPods 的拙劣模仿，从外形、触控功能、降噪，都能多少看出 AirPods 的影子，其影响力可见一斑。&lt;/p&gt;
+&lt;p&gt;本人有幸在今年 8 月搞到一副 AirPods Pro (2nd generation type-c), 使用一个月颇有感受，故记录于此&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/08/v2-04da65256e444939915a95ad4d96beba_r.jpg&#34; alt=&#34;华强北耳机&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;外观&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#外观&#34;&gt;&lt;/a&gt; 外观&lt;/h2&gt;
+&lt;h2 id=&#34;外观&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#外观&#34;&gt;#&lt;/a&gt; 外观&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/08/Apple-AirPods-Pro-2.jpg&#34; alt&gt;&lt;/p&gt;
-&lt;p&gt;Apple一贯的简洁白色，采用了入耳式设计，每只高度30.9毫米（1.22英寸），宽度21.8毫米（0.86英寸），深度24.0毫米（0.94英寸），重量5.3克（0.19盎司）&lt;/p&gt;
-&lt;p&gt;开盖动画纵享丝滑~&lt;/p&gt;
+&lt;p&gt;Apple 一贯的简洁白色，采用了入耳式设计，每只高度 30.9 毫米（1.22 英寸），宽度 21.8 毫米（0.86 英寸），深度 24.0 毫米（0.94 英寸），重量 5.3 克（0.19 盎司）&lt;/p&gt;
+&lt;p&gt;开盖动画纵享丝滑～&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/08/XPEXE3585_XJNiPK-00_00_00-00_00_30.gif&#34; alt&gt;&lt;/p&gt;
 </content>
         <category term="数码" scheme="https://xjp66666.github.io/categories/%E6%95%B0%E7%A0%81/" />
@@ -137,35 +137,75 @@ For a smoother program, use a forever loop instead of separate events for each m
         <updated>2024-09-07T04:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/</id>
+        <title>CS学习.1-2-Careers</title>
+        <link rel="alternate" href="https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/"/>
+        <content type="html">&lt;h2 id=&#34;cs-careers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cs-careers&#34;&gt;#&lt;/a&gt; CS Careers&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;By Jason Liang&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1st-careercomputer-engineer&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1st-careercomputer-engineer&#34;&gt;#&lt;/a&gt; 1st career:computer engineer&lt;/h3&gt;
+&lt;p&gt;Median Salary:&lt;/p&gt;
+&lt;p&gt;$82,917 per year&lt;/p&gt;
+&lt;p&gt;Brief Description:&lt;/p&gt;
+&lt;p&gt;·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.&lt;/p&gt;
+&lt;p&gt;4 Duties or Responsibilities：&lt;/p&gt;
+&lt;p&gt;1.test computer systems.&lt;/p&gt;
+&lt;p&gt;2.Repair servers/computers&lt;/p&gt;
+&lt;p&gt;3.create programs&lt;/p&gt;
+&lt;p&gt;4.。&lt;/p&gt;
+&lt;p&gt;Education Pathway:&lt;/p&gt;
+&lt;p&gt;Most entry-level computer engineering jobs require at least a bachelor&#39;s in computer science, computer engineering, or electrical engineering.&lt;/p&gt;
+&lt;p&gt;Experience Required:&lt;/p&gt;
+&lt;p&gt;Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.&lt;/p&gt;
+&lt;h3 id=&#34;2nd-careercomputer-network-architect&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2nd-careercomputer-network-architect&#34;&gt;#&lt;/a&gt; 2nd career:Computer network architect&lt;/h3&gt;
+&lt;p&gt;Median Salary:&lt;/p&gt;
+&lt;p&gt;$129,566 per year&lt;/p&gt;
+&lt;p&gt;Brief Description:&lt;/p&gt;
+&lt;p&gt;·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.&lt;/p&gt;
+&lt;p&gt;4 Duties or Responsibilities:&lt;/p&gt;
+&lt;p&gt;1.designing, building, deploying and maintaining such networks&lt;/p&gt;
+&lt;p&gt;2.gathering the organization&#39;s requirements,&lt;/p&gt;
+&lt;p&gt;3.planning networks based on the needs&lt;/p&gt;
+&lt;p&gt;4.researching new technologies that may be useful to the organization and applying upgrades&lt;/p&gt;
+&lt;p&gt;Education Pathway:&lt;/p&gt;
+&lt;p&gt;Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.&lt;/p&gt;
+&lt;p&gt;Experience Required:&lt;/p&gt;
+&lt;p&gt;Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.&lt;/p&gt;
+</content>
+        <category term="计算机科学computerscience" scheme="https://xjp66666.github.io/categories/cs/" />
+        <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
+        <category term="cs学习笔记" scheme="https://xjp66666.github.io/tags/cs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <updated>2024-09-05T04:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/</id>
         <title>玩过のGal</title>
         <link rel="alternate" href="https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/"/>
-        <content type="html">&lt;p&gt;&lt;strong&gt;泛二次元文化ACGN，N到底代表什么？很多回答Game，只能说对了一半。G应该代指Galgame&lt;/strong&gt;&lt;s&gt;黄油&lt;/s&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;起源-origin&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#起源-origin&#34;&gt;&lt;/a&gt; 起源-Origin&lt;/h2&gt;
-&lt;p&gt;当然，原本只是一个很小众的圈子，大概是源于90年代动漫热潮之后（之前也说不定？希腊奶），资本主义国家正值金融风暴，几个资本主义国家引发大规模金融危机，社会状况每况愈下，日本形成了一大批不愿工社交，逃避现实的群体，也就是现在所谓的社畜、宅男。这些人不愿意外出工作，整日家里蹲打游戏看电视，很少与他人交流（著名的EVA就是这时候诞生的，批判了当时萎靡不振的社会风气）。人是群居动物，这么生活必定感到孤独，需要内心的慰藉：爱情亲情友情，于是，一种前所未有的游戏种类在二次元文化兴起的推动下运应而生——&lt;strong&gt;Galgame&lt;/strong&gt;。理所当然，几款不同于传统fps射击游戏的“射击游戏”大受欢迎，立马赢得了无数单身宅男的宠爱————题外话，二次元的钱是真好赚————，于是各大gal厂商相继成立，在漫画店一同发售r18galgame的光盘。经过数十年发展，成就了当今Galgame的现状&lt;/p&gt;
-&lt;p&gt;当然gal发展到今天已经是比较大的圈子，本该是日本的圈子随着二次元文化的传播扩张到了中国（貌似玩家比日本人还多），不过和王者吃鸡3a大作比起来依然是小圈子(毕竟是小黄油)本人大概从5年级接触了第一款Galgame——teachfeeling &lt;s&gt;（拔作确信）&lt;/s&gt; ，相信很多g友也是从这款gal开始掉坑的。然后，5年级到初二也是接触了很多gal &lt;s&gt;（基本是拔作）&lt;/s&gt;。但是直到初三玩了yuzusoft的千恋万花，才算入门真正意义上的Galgame。&lt;/p&gt;
-&lt;p&gt;下面会更新我玩gal的一些心得，以及评价。(由于gal的主体是剧情和画面，所里两者的权重较大一些。)&lt;/p&gt;
-&lt;h2 id=&#34;momoの足迹&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#momoの足迹&#34;&gt;&lt;/a&gt; momoの足迹&lt;/h2&gt;
-&lt;h3 id=&#34;teachfeeling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#teachfeeling&#34;&gt;&lt;/a&gt; teachfeeling&lt;/h3&gt;
+        <content type="html">&lt;p&gt;&lt;strong&gt;泛二次元文化 ACGN，N 到底代表什么？很多回答 Game，只能说对了一半。G 应该代指 Galgame&lt;/strong&gt;&lt;s&gt; 黄油&lt;/s&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;起源-origin&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#起源-origin&#34;&gt;#&lt;/a&gt; 起源 - Origin&lt;/h2&gt;
+&lt;p&gt;当然，原本只是一个很小众的圈子，大概是源于 90 年代动漫热潮之后（之前也说不定？希腊奶），资本主义国家正值金融风暴，几个资本主义国家引发大规模金融危机，社会状况每况愈下，日本形成了一大批不愿工社交，逃避现实的群体，也就是现在所谓的社畜、宅男。这些人不愿意外出工作，整日家里蹲打游戏看电视，很少与他人交流（著名的 EVA 就是这时候诞生的，批判了当时萎靡不振的社会风气）。人是群居动物，这么生活必定感到孤独，需要内心的慰藉：爱情亲情友情，于是，一种前所未有的游戏种类在二次元文化兴起的推动下运应而生 ——&lt;strong&gt;Galgame&lt;/strong&gt;。理所当然，几款不同于传统 fps 射击游戏的 “射击游戏” 大受欢迎，立马赢得了无数单身宅男的宠爱 ———— 题外话，二次元的钱是真好赚 ————，于是各大 gal 厂商相继成立，在漫画店一同发售 r18galgame 的光盘。经过数十年发展，成就了当今 Galgame 的现状&lt;/p&gt;
+&lt;p&gt;当然 gal 发展到今天已经是比较大的圈子，本该是日本的圈子随着二次元文化的传播扩张到了中国（貌似玩家比日本人还多），不过和王者吃鸡 3a 大作比起来依然是小圈子 (毕竟是小黄油) 本人大概从 5 年级接触了第一款 Galgame——teachfeeling &lt;s&gt;（拔作确信）&lt;/s&gt; ，相信很多 g 友也是从这款 gal 开始掉坑的。然后，5 年级到初二也是接触了很多 gal &lt;s&gt;（基本是拔作）&lt;/s&gt;。但是直到初三玩了 yuzusoft 的千恋万花，才算入门真正意义上的 Galgame。&lt;/p&gt;
+&lt;p&gt;下面会更新我玩 gal 的一些心得，以及评价。(由于 gal 的主体是剧情和画面，所里两者的权重较大一些。)&lt;/p&gt;
+&lt;h2 id=&#34;momoの足迹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#momoの足迹&#34;&gt;#&lt;/a&gt; momo の足迹&lt;/h2&gt;
+&lt;h3 id=&#34;teachfeeling&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#teachfeeling&#34;&gt;#&lt;/a&gt; teachfeeling&lt;/h3&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/09/06/gopbdvar.png&#34; alt=&#34;Teachfeeling&#34;&gt;&lt;/p&gt;
-&lt;p&gt;本人玩的第一部能被大众叫上名的gal。&lt;br&gt;
-由日本同人社团FreakilyCharming制作。&lt;br&gt;
-这部在gal圈算是非常有名的，大佬们也制作了很多改版，wiki的评价：&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;游戏在推出之后成为网络热门话题，游戏在DLsite销量为2015年度第一，并在2018年10月11日成为DLsite销量最高的作品。游戏在发售7年后，开发者还继续更新内容，还有不少游戏爱好者制作游戏模块。《周刊Ascii》第1053期的“全日本美少女游戏研究所”栏目将该作评为“本周推荐游戏”，评论员ミナミダ称赞该作没有像一般奴隶题材作品注重凌辱和调教内容，而是专注于与奴隶的日常交互相处，勾起玩家的父爱。Ura-akiba将本作评为2016年最佳色情同人游戏。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;2015年11月，有网民制作了游戏的韩文版，并将韩文版放在自己经营的色情网站。该网民于2016年5月19日被釜山警察以违反《儿童·青少年性保护法》为由逮捕。《美信》韩国版曾在2016年2月号上介绍《Teaching Feeling》，游戏的选材和剧情在当地引起争议。&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;本人玩的第一部能被大众叫上名的 gal。&lt;br&gt;
+由日本同人社团 FreakilyCharming 制作。&lt;br&gt;
+这部在 gal 圈算是非常有名的，大佬们也制作了很多改版，wiki 的评价：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;游戏在推出之后成为网络热门话题，游戏在 DLsite 销量为 2015 年度第一，并在 2018 年 10 月 11 日成为 DLsite 销量最高的作品。游戏在发售 7 年后，开发者还继续更新内容，还有不少游戏爱好者制作游戏模块。《周刊 Ascii》第 1053 期的 “全日本美少女游戏研究所” 栏目将该作评为 “本周推荐游戏”，评论员ミナミダ称赞该作没有像一般奴隶题材作品注重凌辱和调教内容，而是专注于与奴隶的日常交互相处，勾起玩家的父爱。Ura-akiba 将本作评为 2016 年最佳色情同人游戏。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;2015 年 11 月，有网民制作了游戏的韩文版，并将韩文版放在自己经营的色情网站。该网民于 2016 年 5 月 19 日被釜山警察以违反《儿童・青少年性保护法》为由逮捕。《美信》韩国版曾在 2016 年 2 月号上介绍《Teaching Feeling》，游戏的选材和剧情在当地引起争议。&lt;/s&gt;&lt;/p&gt;
 &lt;p&gt;本人评价：&lt;/p&gt;
 &lt;p&gt;剧情：6/10，典型的拔作，剧情比较零碎，经典奴隶剧情，有点狗血，主要是玩家操作。&lt;br&gt;
-UI：7/10，操作界面互动性强，但是UI和封面真的很压抑。&lt;br&gt;
+UI：7/10，操作界面互动性强，但是 UI 和封面真的很压抑。&lt;br&gt;
 画面：7/10，压抑，但是希尔薇可爱&lt;br&gt;
 配音：无&lt;br&gt;
 总体：6.7/10&lt;br&gt;
-萌新值得一玩，可以入门作&lt;/p&gt;
-&lt;h3 id=&#34;樱之诗-sakura-no-uta&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#樱之诗-sakura-no-uta&#34;&gt;&lt;/a&gt; 樱之诗-Sakura no Uta&lt;/h3&gt;
+ 萌新值得一玩，可以入门作&lt;/p&gt;
+&lt;h3 id=&#34;樱之诗-sakura-no-uta&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#樱之诗-sakura-no-uta&#34;&gt;#&lt;/a&gt; 樱之诗 - Sakura no Uta&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;仮象のはるいろそらいちめん&lt;br&gt;
 ただやみくもの因果的交流電燈&lt;br&gt;
 明るく明るく明るく灯ります&lt;/p&gt;
-&lt;p&gt;Watermelonの電気石&lt;br&gt;
+&lt;p&gt;Watermelon の電気石&lt;br&gt;
 音と言語の交差地点&lt;br&gt;
 ますます色彩過多の世界にて&lt;br&gt;
 七つの櫻が追い越した&lt;br&gt;
@@ -178,12 +218,12 @@ UI：7/10，操作界面互动性强，但是UI和封面真的很压抑。&lt;br
 美しい音色で世界が鳴った&lt;/p&gt;
 &lt;p&gt;それが虚無ならば虚無自身がこのほとりで&lt;br&gt;
 ある程度までみんなに共通いたします&lt;br&gt;
-(すべてがわたくしの中のみんなであるやうに&lt;br&gt;
+ (すべてがわたくしの中のみんなであるやうに&lt;br&gt;
 みんなのおのおののなかのすべてですから)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/wn6eZZ-Lao4?si=pKqBHwJROL09wGjP&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/t0hyPgbzs_U?si=275veOBCzYlnj0BV&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;称之为&amp;quot;我&amp;quot;的现象&lt;br&gt;
+&lt;p&gt;&lt;em&gt;称之为 &amp;quot;我&amp;quot; 的现象&lt;br&gt;
 是被假定有机交流电灯的一盏青色明灯&lt;br&gt;
 （所有透明幽灵的复合体）&lt;br&gt;
 与风景及众生一起&lt;br&gt;
@@ -213,7 +253,7 @@ UI：7/10，操作界面互动性强，但是UI和封面真的很压抑。&lt;br
 &lt;p&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2024/09/07/51114358f6ac8ffcfe627ebcd786e6cbe44aac0f.png&#34; alt=&#34;川野内&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2024/09/07/v2-29c235610fa052be9d650234b8c399a3_b.png&#34; alt=&#34;百合&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;ZYPRESSEN愈发黝黑&lt;br&gt;
+&lt;p&gt;&lt;em&gt;ZYPRESSEN 愈发黝黑&lt;br&gt;
 云的火花纷纷飘落&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2024/09/07/CGCG-GAL-Makura01-2022082004_233313.png&#34; alt=&#34;水菜与健一郎&#34;&gt;&lt;/p&gt;
@@ -223,14 +263,14 @@ What is matter? Never mind&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2024/09/07/IMG_7373.png&#34; alt=&#34;樱花&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;サクラノ詩-櫻の森の上を舞う&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;サクラノ詩 - 櫻の森の上を舞う&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与艺术家的绘画一起留下的诗的最后，如此这般地写道。艺术家去世之后，一如往常的人们，一如往常的幸福光景延伸着。轻轻晃动的樱的森林中响起世界的声音，优美的音色奏响起世界之声。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h4 id=&#34;评分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#评分&#34;&gt;&lt;/a&gt; 评分&lt;/h4&gt;
-&lt;p&gt;Warning:以下内容有剧透谨慎观看&lt;/p&gt;
-&lt;p&gt;全流程花了我大概30小时，暑假的1/4,一口气推下来。&lt;br&gt;
+&lt;h4 id=&#34;评分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评分&#34;&gt;#&lt;/a&gt; 评分&lt;/h4&gt;
+&lt;p&gt;Warning: 以下内容有剧透谨慎观看&lt;/p&gt;
+&lt;p&gt;全流程花了我大概 30 小时，暑假的 1/4, 一口气推下来。&lt;br&gt;
 只有一个字：爽！！！&lt;br&gt;
-妥妥的氛围作，题目中的&amp;quot;樱&amp;quot;和&amp;quot;诗&amp;quot;为线索展开，或者说，整部作品构成了一部诗歌，名为&amp;quot;樱花&amp;quot;的诗歌：&lt;/p&gt;
+妥妥的氛围作，题目中的 &amp;quot;樱&amp;quot; 和 &amp;quot;诗&amp;quot; 为线索展开，或者说，整部作品构成了一部诗歌，名为 &amp;quot;樱花&amp;quot; 的诗歌：&lt;/p&gt;
 &lt;p&gt;0.Wende, wende deinen Lauf/Im Thale blüht der Frühling auf!&lt;br&gt;
 1.Frühlingsbeginn&lt;br&gt;
 2.Abend&lt;br&gt;
@@ -241,25 +281,25 @@ What is matter? Never mind&lt;/em&gt;&lt;/p&gt;
 3-4.A Nice Derangement of Epitaphs&lt;br&gt;
 4.What is mind?No matter.What is matter?Never mind.&lt;br&gt;
 5.The happy prince and other tales&lt;br&gt;
-6.櫻の森の下を歩む&lt;/p&gt;
-&lt;p&gt;当然，sca老贼引用了大量晦涩难懂的哲学理论，不知道为什么还扯上康德的批判三部曲。。作为烘托氛围是再好不过，但放在上下文会很突兀没有连续感&lt;/p&gt;
-&lt;p&gt;说说剧情，前两章比较无聊，设下很多铺垫吊人胃口，只能靠黄段子支起来 &lt;s&gt;（但是我就好这口毕竟是小处男呜呜呜）&lt;/s&gt; 到了第三章渐渐展开，推完禀线以为高潮结束，没想到才开始（诗是锁剧情gal），推到ZYPRESSEN线直接tm起飞！！！然后4、5章也是高潮不断，第六章有些蹩脚但是说得过去，最后蓝姐和直哉说：&amp;quot;像樱花在林上飞舞&amp;quot;那一句，woc我tm直接破防了wccccc&lt;/p&gt;
-&lt;p&gt;这tm才是真正的Galgame！！！！&lt;/p&gt;
+6. 櫻の森の下を歩む&lt;/p&gt;
+&lt;p&gt;当然，sca 老贼引用了大量晦涩难懂的哲学理论，不知道为什么还扯上康德的批判三部曲。。作为烘托氛围是再好不过，但放在上下文会很突兀没有连续感&lt;/p&gt;
+&lt;p&gt;说说剧情，前两章比较无聊，设下很多铺垫吊人胃口，只能靠黄段子支起来 &lt;s&gt;（但是我就好这口毕竟是小处男呜呜呜）&lt;/s&gt; 到了第三章渐渐展开，推完禀线以为高潮结束，没想到才开始（诗是锁剧情 gal），推到 ZYPRESSEN 线直接 tm 起飞！！！然后 4、5 章也是高潮不断，第六章有些蹩脚但是说得过去，最后蓝姐和直哉说：&amp;quot;像樱花在林上飞舞&amp;quot; 那一句，woc 我 tm 直接破防了 wccccc&lt;/p&gt;
+&lt;p&gt;这 tm 才是真正的 Galgame！！！！&lt;/p&gt;
 &lt;p&gt;但是结局真的没想到美术部人都走了。。。推完那几天难受了好久捏。。。樱之刻还没推，推完再回来写&lt;/p&gt;
-&lt;p&gt;sca的作品属于是对的上的非常喜欢，对不上就无法理解的类型。由于东方国家的日本是在文学方面普遍将&amp;quot;美&amp;quot;讲究到极致这样一个国家（东西方文学差异这点我以后会讲），所以在岛国评价普遍很高，批评空间也能排前几&lt;/p&gt;
+&lt;p&gt;sca 的作品属于是对的上的非常喜欢，对不上就无法理解的类型。由于东方国家的日本是在文学方面普遍将 &amp;quot;美&amp;quot; 讲究到极致这样一个国家（东西方文学差异这点我以后会讲），所以在岛国评价普遍很高，批评空间也能排前几&lt;/p&gt;
 &lt;p&gt;个人评价：&lt;br&gt;
-剧情，9/10,中间几章无可挑剔，第一章太无聊，最后一章有点蹩脚&lt;br&gt;
-音乐，9.5/10,ost都是神曲&lt;br&gt;
-UI：8/10,04年的gal能做成这样已经很强了&lt;br&gt;
-画面：9.5/10,cg绝美(不敢相信是04年的)&lt;br&gt;
-配音：9.5/10，基本所有角色都有精美配音，耳朵怀孕了&lt;br&gt;
+剧情，9/10, 中间几章无可挑剔，第一章太无聊，最后一章有点蹩脚&lt;br&gt;
+音乐，9.5/10,ost 都是神曲&lt;br&gt;
+ UI：8/10,04 年的 gal 能做成这样已经很强了&lt;br&gt;
+画面：9.5/10,cg 绝美 (不敢相信是 04 年的)&lt;br&gt;
+ 配音：9.5/10，基本所有角色都有精美配音，耳朵怀孕了&lt;br&gt;
 &lt;strong&gt;总体：9.5/10&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;神作无疑&lt;/p&gt;
-&lt;h3 id=&#34;summer-pockets-reflection-blue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#summer-pockets-reflection-blue&#34;&gt;&lt;/a&gt; Summer Pockets Reflection Blue&lt;/h3&gt;
+&lt;h3 id=&#34;summer-pockets-reflection-blue&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#summer-pockets-reflection-blue&#34;&gt;#&lt;/a&gt; Summer Pockets Reflection Blue&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;唯有那份炫目，未曾忘却&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/JalI6kGXs8k?si=1JDc8X3YjMJ_cnx-&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/W5h9tGis2OQ?si=fqJPAVD9OhPOICFE&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/10/16/c8f9ba15515c856b8c06e0b579b2d589ead5015b.png&#34; alt=&#34;白羽&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;特色烦了&lt;/em&gt;&lt;/p&gt;
@@ -294,39 +334,40 @@ UI：8/10,04年的gal能做成这样已经很强了&lt;br&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/10/16/34fe81b66c9105e80f374b844a268052d0010b1d.png&#34; alt=&#34;羽末&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;没有羽末的世界……我才不想要……&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;没有羽末的世界…… 我才不想要……&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://z4a.net/images/2024/10/16/174.png&#34; alt=&#34;一家人&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;我们一家人……终于能……一直在一起了&lt;/p&gt;
+&lt;p&gt;我们一家人…… 终于能…… 一直在一起了&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;s&gt;麻子真的很喜欢夏天&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;十条线，推了半个多月。key的一贯套路，都是日常+反转+刀子，这次也不例外 &lt;s&gt;(麻枝准真会骗眼泪&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;日常有看头，但是单线短，甚至有些单薄，套路一样的话玩key玩久了会有强烈的既视感，TE还错，虽然还是死妈剧情。&lt;/p&gt;
-&lt;p&gt;单线排行的话，Pockets&amp;gt;Alka&amp;gt;苍&amp;gt;紬&amp;gt;鸥&amp;gt;识&amp;gt;白羽&amp;gt;海己&amp;gt;静久&amp;gt;美希&lt;/p&gt;
-&lt;h4 id=&#34;评分-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#评分-2&#34;&gt;&lt;/a&gt; 评分：&lt;/h4&gt;
-&lt;p&gt;剧情 8.5/10 能骗我眼泪说明剧情牛b&lt;br&gt;
-音乐 9.5/10 key的音乐是真好听&lt;br&gt;
-UI 8.5/10&lt;br&gt;
-画面 8.5/10 好看&lt;br&gt;
+&lt;p&gt;十条线，推了半个多月。key 的一贯套路，都是日常 + 反转 + 刀子，这次也不例外 &lt;s&gt;(麻枝准真会骗眼泪&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;日常有看头，但是单线短，甚至有些单薄，套路一样的话玩 key 玩久了会有强烈的既视感，TE 还错，虽然还是死妈剧情。&lt;/p&gt;
+&lt;p&gt;单线排行的话，Pockets&amp;gt;Alka &amp;gt; 苍 &amp;gt; 紬 &amp;gt; 鸥 &amp;gt; 识 &amp;gt; 白羽 &amp;gt; 海己 &amp;gt; 静久 &amp;gt; 美希&lt;/p&gt;
+&lt;h4 id=&#34;评分-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评分-2&#34;&gt;#&lt;/a&gt; 评分：&lt;/h4&gt;
+&lt;p&gt;剧情 8.5/10 能骗我眼泪说明剧情牛 b&lt;br&gt;
+ 音乐 9.5/10 key 的音乐是真好听&lt;br&gt;
+ UI 8.5/10&lt;br&gt;
+ 画面 8.5/10 好看&lt;br&gt;
 配音 8/10 最喜欢紬的姆啾了&lt;br&gt;
 总评： 8.5/10&lt;/p&gt;
 &lt;p&gt;十分优秀的作品，玩了不会后悔&lt;/p&gt;
-&lt;h3 id=&#34;千恋万花&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#千恋万花&#34;&gt;&lt;/a&gt; 千恋*万花&lt;/h3&gt;
-&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/WcscgLBz6tk?si=37vPgXXjwaGISMfs&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;柚子社，dddd。原神gal。。&lt;/p&gt;
+&lt;h3 id=&#34;千恋万花&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#千恋万花&#34;&gt;#&lt;/a&gt; 千恋 * 万花&lt;/h3&gt;
+&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/sfcpz3xuecA?si=2Ap9BEmTQERoPuw7&#34; title=&#34;YouTube&#34; video player frameborder=&#34;0&#34; allow=&#34;accelerometer;&#34; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;柚子社，dddd。原神 gal。。&lt;/p&gt;
 &lt;p&gt;只推了丛雨线，最后有点小感动，但是总的来说一言难尽。日常无聊到睡着，剧情走向有点奇怪&lt;/p&gt;
 &lt;p&gt;不理解为什么废萌能出圈……&lt;/p&gt;
-&lt;h4 id=&#34;评分-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#评分-3&#34;&gt;&lt;/a&gt; 评分：&lt;/h4&gt;
+&lt;h4 id=&#34;评分-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评分-3&#34;&gt;#&lt;/a&gt; 评分：&lt;/h4&gt;
 &lt;p&gt;剧情 7/10&lt;br&gt;
-配音 8/10 ciallo~&lt;br&gt;
-音乐 7/10&lt;br&gt;
-画面 8/10&lt;br&gt;
+ 配音 8/10 ciallo~&lt;br&gt;
+ 音乐 7/10&lt;br&gt;
+ 画面 8/10&lt;br&gt;
 UI 8/10&lt;br&gt;
-总评 7/10&lt;/p&gt;
-&lt;h3 id=&#34;妹调教日记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#妹调教日记&#34;&gt;&lt;/a&gt; 妹调教日记&lt;/h3&gt;
-&lt;p&gt;woc这个太顶了。。推完三观被重塑了。&lt;/p&gt;
+ 总评 7/10&lt;/p&gt;
+&lt;h3 id=&#34;妹调教日记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#妹调教日记&#34;&gt;#&lt;/a&gt; 妹调教日记&lt;/h3&gt;
+&lt;p&gt;woc 这个太顶了。。推完三观被重塑了。&lt;/p&gt;
 &lt;p&gt;十二神器不是白排的&lt;/p&gt;
+&lt;p&gt;!! 黑幕黑幕黑幕黑幕黑幕黑幕！！&lt;/p&gt;
 </content>
         <category term="二次元杂谈" scheme="https://xjp66666.github.io/categories/ecy/" />
         <category term="Galgame" scheme="https://xjp66666.github.io/tags/Galgame/" />
@@ -335,59 +376,19 @@ UI 8/10&lt;br&gt;
         <updated>2024-09-05T04:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/</id>
-        <title>CS学习.1-2-Careers</title>
-        <link rel="alternate" href="https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/"/>
-        <content type="html">&lt;h2 id=&#34;cs-careers&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#cs-careers&#34;&gt;&lt;/a&gt; CS Careers&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;By Jason Liang&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;1st-careercomputer-engineer&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1st-careercomputer-engineer&#34;&gt;&lt;/a&gt; 1st career:computer engineer&lt;/h3&gt;
-&lt;p&gt;Median Salary:&lt;/p&gt;
-&lt;p&gt;$82,917 per year&lt;/p&gt;
-&lt;p&gt;Brief Description:&lt;/p&gt;
-&lt;p&gt;·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.&lt;/p&gt;
-&lt;p&gt;4 Duties or Responsibilities：&lt;/p&gt;
-&lt;p&gt;1.test computer systems.&lt;/p&gt;
-&lt;p&gt;2.Repair servers/computers&lt;/p&gt;
-&lt;p&gt;3.create programs&lt;/p&gt;
-&lt;p&gt;4.。&lt;/p&gt;
-&lt;p&gt;Education Pathway:&lt;/p&gt;
-&lt;p&gt;Most entry-level computer engineering jobs require at least a bachelor’s in computer science, computer engineering, or electrical engineering.&lt;/p&gt;
-&lt;p&gt;Experience Required:&lt;/p&gt;
-&lt;p&gt;Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.&lt;/p&gt;
-&lt;h3 id=&#34;2nd-careercomputer-network-architect&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2nd-careercomputer-network-architect&#34;&gt;&lt;/a&gt; 2nd career:Computer network architect&lt;/h3&gt;
-&lt;p&gt;Median Salary:&lt;/p&gt;
-&lt;p&gt;$129,566 per year&lt;/p&gt;
-&lt;p&gt;Brief Description:&lt;/p&gt;
-&lt;p&gt;·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.&lt;/p&gt;
-&lt;p&gt;4 Duties or Responsibilities:&lt;/p&gt;
-&lt;p&gt;1.designing, building, deploying and maintaining such networks&lt;/p&gt;
-&lt;p&gt;2.gathering the organization’s requirements,&lt;/p&gt;
-&lt;p&gt;3.planning networks based on the needs&lt;/p&gt;
-&lt;p&gt;4.researching new technologies that may be useful to the organization and applying upgrades&lt;/p&gt;
-&lt;p&gt;Education Pathway:&lt;/p&gt;
-&lt;p&gt;Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.&lt;/p&gt;
-&lt;p&gt;Experience Required:&lt;/p&gt;
-&lt;p&gt;Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.&lt;/p&gt;
-</content>
-        <category term="计算机科学computerscience" scheme="https://xjp66666.github.io/categories/cs/" />
-        <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
-        <category term="cs学习笔记" scheme="https://xjp66666.github.io/tags/cs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
-        <updated>2024-09-05T04:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.1-1-cyber%20crime/</id>
         <title>CS学习.0-1-Cyber Crime</title>
         <link rel="alternate" href="https://xjp66666.github.io/2024/09/03/cs/cs%E5%AD%A6%E4%B9%A0.1-1-cyber%20crime/"/>
-        <content type="html">&lt;h3 id=&#34;我为什么会选择cs课程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我为什么会选择cs课程&#34;&gt;&lt;/a&gt; 我为什么会选择cs课程？&lt;/h3&gt;
-&lt;p&gt;我是从小学大概三四年级（18年？）开始接触电脑吧，就产生了浓厚的兴趣。那时候智能手机其实早已兴起，全世界掀起了智能手机热潮，Apple推出了iphone7(现在还留着一台用infuse看番)iphone8，微信支付已经遍及千家万户。然后，理所当然，电脑这个又笨重又贵的东西渐渐得被时代潮流淘汰了，那些年人们讨论的更多的是新一代iphone和某国产品牌哪家强，而不是intel又推出新一代u、NVIDIA推出20代显卡了&lt;/p&gt;
-&lt;p&gt;喜爱计算机大部分是遗传吧。我爹从小没见过手机电脑，一遇上就一发不可收拾，当然也深深感染了我。。他经常买配件装机，让后搞nas、翻墙、下bt，带我看电影——生化危机、终结者、异星觉醒 &lt;s&gt;都tm是重口。。我当时才三年级啊啊啊啊&lt;/s&gt;然后，我就渐渐开始接触电脑游戏，pvz，Minecraft，GTA，以及，4399&lt;s&gt;唯一真神&lt;/s&gt;的死神vs火影，战火英雄，生死狙击。毕竟玩游戏需要技术支持，对硬件软件操作系统需要一定了解，就慢慢开始接触了cs&lt;/p&gt;
+        <content type="html">&lt;h3 id=&#34;我为什么会选择cs课程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我为什么会选择cs课程&#34;&gt;#&lt;/a&gt; 我为什么会选择 cs 课程？&lt;/h3&gt;
+&lt;p&gt;我是从小学大概三四年级（18 年？）开始接触电脑吧，就产生了浓厚的兴趣。那时候智能手机其实早已兴起，全世界掀起了智能手机热潮，Apple 推出了 iphone7 (现在还留着一台用 infuse 看番) iphone8，微信支付已经遍及千家万户。然后，理所当然，电脑这个又笨重又贵的东西渐渐得被时代潮流淘汰了，那些年人们讨论的更多的是新一代 iphone 和某国产品牌哪家强，而不是 intel 又推出新一代 u、NVIDIA 推出 20 代显卡了&lt;/p&gt;
+&lt;p&gt;喜爱计算机大部分是遗传吧。我爹从小没见过手机电脑，一遇上就一发不可收拾，当然也深深感染了我。。他经常买配件装机，让后搞 nas、翻墙、下 bt，带我看电影 —— 生化危机、终结者、异星觉醒 &lt;s&gt;都 tm 是重口。。我当时才三年级啊啊啊啊&lt;/s&gt;然后，我就渐渐开始接触电脑游戏，pvz，Minecraft，GTA，以及，4399&lt;s&gt; 唯一真神&lt;/s&gt;的死神 vs 火影，战火英雄，生死狙击。毕竟玩游戏需要技术支持，对硬件软件操作系统需要一定了解，就慢慢开始接触了 cs&lt;/p&gt;
 &lt;p&gt;当然，这么多年的摸爬滚打下来不过还只是学了一点皮毛。什么翻墙装机双系统拆硬盘不过是鸡毛蒜皮，我还真没有浅下心来深入学一门语言，现在顶多算个小白。。&lt;/p&gt;
-&lt;p&gt;编不下去了，反正最后选择了cs课程，希望能开开心心的学习。当然，我会在博客上记录我学习过程的点滴&lt;/p&gt;
+&lt;p&gt;编不下去了，反正最后选择了 cs 课程，希望能开开心心的学习。当然，我会在博客上记录我学习过程的点滴&lt;/p&gt;
 &lt;p&gt;那么开始吧。&lt;/p&gt;
-&lt;h3 id=&#34;lesson-1cyber-crime&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lesson-1cyber-crime&#34;&gt;&lt;/a&gt; Lesson 1:Cyber Crime&lt;/h3&gt;
-&lt;h4 id=&#34;第一版&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一版&#34;&gt;&lt;/a&gt; 第一版:&lt;/h4&gt;
+&lt;h3 id=&#34;lesson-1cyber-crime&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lesson-1cyber-crime&#34;&gt;#&lt;/a&gt; Lesson 1:Cyber Crime&lt;/h3&gt;
+&lt;h4 id=&#34;第一版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一版&#34;&gt;#&lt;/a&gt; 第一版:&lt;/h4&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
-&lt;h5 id=&#34;identity-theft&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#identity-theft&#34;&gt;&lt;/a&gt; Identity theft&lt;/h5&gt;
+&lt;h5 id=&#34;identity-theft&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#identity-theft&#34;&gt;#&lt;/a&gt; Identity theft&lt;/h5&gt;
 &lt;p&gt;What type of people are targeted:&lt;br&gt;
 &lt;ins&gt;ALL&lt;/ins&gt;&lt;br&gt;
 Additionally,government staff has the power to get our idenity&lt;/p&gt;
@@ -399,7 +400,7 @@ This is actually inevitable for some reason,because we can’t work without cert
 ·Do not tell any net-friend your name,address and so on,even if you trust them.&lt;br&gt;
 ·register services with an email that dont’t need your phone number&lt;/p&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
-&lt;h5 id=&#34;iternet-fraud&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#iternet-fraud&#34;&gt;&lt;/a&gt; Iternet fraud&lt;/h5&gt;
+&lt;h5 id=&#34;iternet-fraud&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#iternet-fraud&#34;&gt;#&lt;/a&gt; Iternet fraud&lt;/h5&gt;
 &lt;p&gt;What type of people are targeted:&lt;br&gt;
 &lt;ins&gt;All&lt;/ins&gt;&lt;/p&gt;
 &lt;p&gt;How are people targeted:&lt;br&gt;
@@ -408,7 +409,7 @@ Those who are without suspiction&lt;/p&gt;
 · Remember”there is no such thing as a free lunch”,&lt;br&gt;
 do not response any of the scam messages.&lt;/p&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
-&lt;h5 id=&#34;theft-and-sale-of-corporate-data&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#theft-and-sale-of-corporate-data&#34;&gt;&lt;/a&gt; Theft and sale of corporate data.&lt;/h5&gt;
+&lt;h5 id=&#34;theft-and-sale-of-corporate-data&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#theft-and-sale-of-corporate-data&#34;&gt;#&lt;/a&gt; Theft and sale of corporate data.&lt;/h5&gt;
 &lt;p&gt;What type of people are targeted:&lt;br&gt;
 Large company servers/workers&lt;/p&gt;
 &lt;p&gt;How are people targeted:&lt;br&gt;
@@ -417,7 +418,7 @@ Holding sensitive data/business secrets&lt;/p&gt;
 ·Make sure to enable 2FA for your account.&lt;br&gt;
 ·Do not show any sensitive data to neither your friends or companion,not even your family.&lt;/p&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
-&lt;h5 id=&#34;ransomware-attacks&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ransomware-attacks&#34;&gt;&lt;/a&gt; Ransomware attacks&lt;/h5&gt;
+&lt;h5 id=&#34;ransomware-attacks&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ransomware-attacks&#34;&gt;#&lt;/a&gt; Ransomware attacks&lt;/h5&gt;
 &lt;p&gt;What type of people are targeted:&lt;br&gt;
 Beginner in computers&lt;br&gt;
 Android users&lt;/p&gt;
@@ -427,7 +428,7 @@ By pretending virus is an unlocked  apk/exe file&lt;/p&gt;
 ·Do not donwload any unknowed apps&lt;br&gt;
 ·Be sure to install antivirus softwares if you’re not very knowledgeable about computers&lt;/p&gt;
 &lt;p&gt;Type of crime:&lt;/p&gt;
-&lt;h5 id=&#34;pirate&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#pirate&#34;&gt;&lt;/a&gt; Pirate&lt;/h5&gt;
+&lt;h5 id=&#34;pirate&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pirate&#34;&gt;#&lt;/a&gt; Pirate&lt;/h5&gt;
 &lt;p&gt;What type of people are targeted:&lt;br&gt;
 &lt;ins&gt;All&lt;/ins&gt;&lt;/p&gt;
 &lt;p&gt;How are people targeted:&lt;br&gt;
@@ -444,77 +445,77 @@ Downloading pirated content (movies, games, music) is illegal and exposes you to
         <id>https://xjp66666.github.io/2023/12/30/%E5%A6%82%E4%BD%95%E7%94%A8spek%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E6%97%A0%E6%8D%9F/</id>
         <title>如何用spek辨别真假无损</title>
         <link rel="alternate" href="https://xjp66666.github.io/2023/12/30/%E5%A6%82%E4%BD%95%E7%94%A8spek%E8%BE%A8%E5%88%AB%E7%9C%9F%E5%81%87%E6%97%A0%E6%8D%9F/"/>
-        <content type="html">&lt;h2 id=&#34;chinese-ver&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#chinese-ver&#34;&gt;&lt;/a&gt; Chinese Ver.&lt;/h2&gt;
-&lt;h3 id=&#34;什么是无损音乐&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是无损音乐&#34;&gt;&lt;/a&gt; 什么是无损音乐？&lt;/h3&gt;
+        <content type="html">&lt;h2 id=&#34;chinese-ver&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#chinese-ver&#34;&gt;#&lt;/a&gt; Chinese Ver.&lt;/h2&gt;
+&lt;h3 id=&#34;什么是无损音乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是无损音乐&#34;&gt;#&lt;/a&gt; 什么是无损音乐？&lt;/h3&gt;
 &lt;p&gt;简而言之就是，并没有刻意通过压缩的音乐。&lt;/p&gt;
-&lt;p&gt;众所周知的MP3就是把CD（磁带、唱片等）音乐文件掐头去尾的方法。也就是说MP3主要压缩了音乐的&lt;strong&gt;频响范围、采样密度和动态范围&lt;/strong&gt;这三个主要文件参数，从而达到体积小、传输方便的目的。而无损音乐指的就是无限接近于抓轨采样的直出文件，但它本身还是经过压缩的，只是这个压缩过程中充分保留了客观意义上更原汁原味的声音。&lt;/p&gt;
-&lt;h3 id=&#34;在哪里可以听到无损&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#在哪里可以听到无损&#34;&gt;&lt;/a&gt; 在哪里可以听到无损？&lt;/h3&gt;
+&lt;p&gt;众所周知的 MP3 就是把 CD（磁带、唱片等）音乐文件掐头去尾的方法。也就是说 MP3 主要压缩了音乐的&lt;strong&gt;频响范围、采样密度和动态范围&lt;/strong&gt;这三个主要文件参数，从而达到体积小、传输方便的目的。而无损音乐指的就是无限接近于抓轨采样的直出文件，但它本身还是经过压缩的，只是这个压缩过程中充分保留了客观意义上更原汁原味的声音。&lt;/p&gt;
+&lt;h3 id=&#34;在哪里可以听到无损&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在哪里可以听到无损&#34;&gt;#&lt;/a&gt; 在哪里可以听到无损？&lt;/h3&gt;
 &lt;p&gt;Apple Music。&lt;br&gt;
-乔布斯是狂热音乐爱好者，为了推广ipod，曾和各唱片公司有协议，给苹果的都是母带。不过受限于网络，无法上传母带，所以上传的是基于母带压缩后（另一意义上的无损）的音乐。&lt;/p&gt;
-&lt;p&gt;国内平台（网易云、QQ音乐、酷狗）起步时音乐来源，多半是经过数人之手不明来源的文件，可能第一次上传的是通过CD压缩的文件，但数人转载之后音乐质量不断下降，为了地使文件达到无损标准，会可以渲染音源，加一些无意义的高低频，增大体积。&lt;/p&gt;
-&lt;h3 id=&#34;如何辨别真假无损&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#如何辨别真假无损&#34;&gt;&lt;/a&gt; 如何辨别真假无损&lt;/h3&gt;
-&lt;h4 id=&#34;方法一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法一&#34;&gt;&lt;/a&gt; 方法一&lt;/h4&gt;
+乔布斯是狂热音乐爱好者，为了推广 ipod，曾和各唱片公司有协议，给苹果的都是母带。不过受限于网络，无法上传母带，所以上传的是基于母带压缩后（另一意义上的无损）的音乐。&lt;/p&gt;
+&lt;p&gt;国内平台（网易云、QQ 音乐、酷狗）起步时音乐来源，多半是经过数人之手不明来源的文件，可能第一次上传的是通过 CD 压缩的文件，但数人转载之后音乐质量不断下降，为了地使文件达到无损标准，会可以渲染音源，加一些无意义的高低频，增大体积。&lt;/p&gt;
+&lt;h3 id=&#34;如何辨别真假无损&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何辨别真假无损&#34;&gt;#&lt;/a&gt; 如何辨别真假无损&lt;/h3&gt;
+&lt;h4 id=&#34;方法一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法一&#34;&gt;#&lt;/a&gt; 方法一&lt;/h4&gt;
 &lt;p&gt;直接用耳朵听。&lt;/p&gt;
 &lt;p&gt;最简单粗暴的方法，全损和无损普通人也能听出来。&lt;/p&gt;
-&lt;p&gt;但是要辨认出320bit和flac、真假flac，则需一台优良的前端、耳放（功放）、千元级的耳机，仔细辨别音色特点。&lt;/p&gt;
-&lt;h4 id=&#34;方法二&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法二&#34;&gt;&lt;/a&gt; 方法二&lt;/h4&gt;
+&lt;p&gt;但是要辨认出 320bit 和 flac、真假 flac，则需一台优良的前端、耳放（功放）、千元级的耳机，仔细辨别音色特点。&lt;/p&gt;
+&lt;h4 id=&#34;方法二&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法二&#34;&gt;#&lt;/a&gt; 方法二&lt;/h4&gt;
 &lt;p&gt;看后缀。&lt;br&gt;
-如果后缀名是mp3、aac、ogg、m4a等，不是无损；&lt;br&gt;
-如果是flac、wav、ape，则四分之三可能是真无损。&lt;/p&gt;
+如果后缀名是 mp3、aac、ogg、m4a 等，不是无损；&lt;br&gt;
+如果是 flac、wav、ape，则四分之三可能是真无损。&lt;/p&gt;
 &lt;p&gt;看体积。&lt;br&gt;
-三分钟左右大于20mb则可能是无损，小于就不用考虑了。&lt;/p&gt;
-&lt;h4 id=&#34;方法三正文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#方法三正文&#34;&gt;&lt;/a&gt; 方法三（正文）&lt;/h4&gt;
-&lt;p&gt;通过项目spek辨别&lt;br&gt;
+三分钟左右大于 20mb 则可能是无损，小于就不用考虑了。&lt;/p&gt;
+&lt;h4 id=&#34;方法三正文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法三正文&#34;&gt;#&lt;/a&gt; 方法三（正文）&lt;/h4&gt;
+&lt;p&gt;通过项目 spek 辨别&lt;br&gt;
 链接：[spek]&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hlbHAuc3Blay5jYy8=&#34;&gt;http://help.spek.cc/&lt;/span&gt;&lt;br&gt;
-spek是通过分析音频文件的响频范围将其转化为图像，可以直观形象地辨别真假无损。原理是检测音频的高频信息是否有缺失，如果缺失很严重，就代表该音频可能是假的无损。不过不能100%确定，有很多原版的CD转出来的无损，就已经有高频损失的现象。只能说唱片制作过程中造成疏忽了——这种现象屡见不鲜。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果22khz以下的部分被整齐地切了一刀，就是假无损；24khz全满就是真无损&lt;/strong&gt;&lt;/p&gt;
+spek 是通过分析音频文件的响频范围将其转化为图像，可以直观形象地辨别真假无损。原理是检测音频的高频信息是否有缺失，如果缺失很严重，就代表该音频可能是假的无损。不过不能 100% 确定，有很多原版的 CD 转出来的无损，就已经有高频损失的现象。只能说唱片制作过程中造成疏忽了 —— 这种现象屡见不鲜。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果 22khz 以下的部分被整齐地切了一刀，就是假无损；24khz 全满就是真无损&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;看下图：&lt;br&gt;
 &lt;img data-src=&#34;https://www.z4a.net/images/2023/12/30/3LMAYQJK0HLQWYT.png&#34; alt=&#34;假无损&#34;&gt;&lt;/p&gt;
-&lt;p&gt;在16khz部分明显被整齐地切了一刀，虽然是flac后缀，但是假无损。&lt;/p&gt;
+&lt;p&gt;在 16khz 部分明显被整齐地切了一刀，虽然是 flac 后缀，但是假无损。&lt;/p&gt;
 &lt;p&gt;看下图：&lt;br&gt;
 &lt;img data-src=&#34;https://www.z4a.net/images/2023/12/30/C7YUNHR4WT6KJXAZWHB3.png&#34; alt=&#34;真无损&#34;&gt;&lt;br&gt;
-22khz全满，判定为真无损。&lt;/p&gt;
+ 22khz 全满，判定为真无损。&lt;/p&gt;
 &lt;p&gt;有些网友为了把低品质音乐伪装成无损，会故意添加一些人耳听不到的、无意义的高频，增大音频文件体积，如下：&lt;br&gt;
 &lt;img data-src=&#34;https://www.z4a.net/images/2024/06/15/8f93ed2ab3d1ec2936595f45034072ad.png&#34; alt=&#34;假无损&#34;&gt;&lt;br&gt;
-大约55-60khz处整齐地切一刀，以上的响频响度基本相同，一眼看出人为添加。&lt;/p&gt;
-&lt;h5 id=&#34;为什么需要22khz以上的响频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为什么需要22khz以上的响频&#34;&gt;&lt;/a&gt; 为什么需要22khz以上的响频？&lt;/h5&gt;
-&lt;p&gt;众所周知，人耳的听力范围大约为20-20000hz响频的声音，稍微敏感一点的耳朵高频可以达到22000-24000h。那无损中随处可见的44khz、192khz对人耳有什么意义？&lt;br&gt;
-说实话，真的极少的发烧友才能听出44khz与192khz的区别，更多的不过是心理优越感的暗示和烧子的信仰。&lt;br&gt;
+大约 55-60khz 处整齐地切一刀，以上的响频响度基本相同，一眼看出人为添加。&lt;/p&gt;
+&lt;h5 id=&#34;为什么需要22khz以上的响频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么需要22khz以上的响频&#34;&gt;#&lt;/a&gt; 为什么需要 22khz 以上的响频？&lt;/h5&gt;
+&lt;p&gt;众所周知，人耳的听力范围大约为 20-20000hz 响频的声音，稍微敏感一点的耳朵高频可以达到 22000-24000h。那无损中随处可见的 44khz、192khz 对人耳有什么意义？&lt;br&gt;
+说实话，真的极少的发烧友才能听出 44khz 与 192khz 的区别，更多的不过是心理优越感的暗示和烧子的信仰。&lt;br&gt;
 心理暗示和信仰真的有奇效。&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;信则有，不信则无。&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;但是还是有规律可循的解释。下面是知友&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9wby1mZW5nLXNoZW4taHVh&#34;&gt;破风神话&lt;/span&gt;根据“奈奎斯特-香农采样定理”的回答：&lt;/p&gt;
-&lt;p&gt;假如我用44.1khz采样率的方式去采样一个22.05khz的正弦声波（我们假设人耳能听到22.05khz的声波，这个假设其实虽然有点离谱，但还不算太离谱），那么就意味着正弦波的一个周期会被采样两个点。&lt;/p&gt;
+&lt;p&gt;但是还是有规律可循的解释。下面是知友&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9wby1mZW5nLXNoZW4taHVh&#34;&gt;破风神话&lt;/span&gt;根据 “奈奎斯特 - 香农采样定理” 的回答：&lt;/p&gt;
+&lt;p&gt;假如我用 44.1khz 采样率的方式去采样一个 22.05khz 的正弦声波（我们假设人耳能听到 22.05khz 的声波，这个假设其实虽然有点离谱，但还不算太离谱），那么就意味着正弦波的一个周期会被采样两个点。&lt;/p&gt;
 &lt;p&gt;你（和奈奎斯特）认为的理想情况：这两个点分别都正好对齐采样在正弦波的最大和最小值点上，得到的数字信号在回放的时候再通过一个低通滤波器就能正好完美恢复原先的声波了。&lt;/p&gt;
 &lt;p&gt;实际的情况：这两个点根本不可能采在声波的最大和最小值点上，这样的回放系统会导致高频信息量的逐步衰减。&lt;/p&gt;
 &lt;p&gt;实际的最烂情况（还经常发生）：这两个点很不巧正好采样在正弦波的过零点上，高频信息完全丢失。&lt;/p&gt;
-&lt;p&gt;而用96khz的采样率：&lt;/p&gt;
+&lt;p&gt;而用 96khz 的采样率：&lt;/p&gt;
 &lt;p&gt;理想情况：完全没必要，浪费资源，这群人是煞笔。&lt;/p&gt;
-&lt;p&gt;实际的情况：平均一个周期被采样了4个点多一些，采样在最大和最小值的概率增加了，同时即使没有增加，采到的点距离最大和最小值的误差也减少了，信息量的衰减相比44.1khz减少了许多。&lt;/p&gt;
+&lt;p&gt;实际的情况：平均一个周期被采样了 4 个点多一些，采样在最大和最小值的概率增加了，同时即使没有增加，采到的点距离最大和最小值的误差也减少了，信息量的衰减相比 44.1khz 减少了许多。&lt;/p&gt;
 &lt;p&gt;实际的最烂情况（还经常发生）：最多有两个点采样在过零点上，反正我还有另外两个点，而且这种情况下另外两个点基本都在声波极值点上，我依然可以恢复信息，再也不会出现那种信息完全丢失的情况了。&lt;/p&gt;
-&lt;p&gt;懂了吗，“奈奎斯特-香农采样定理”固然指出”理论上40KHz的采样率就够了“，&lt;strong&gt;但是在实际工程生产实践中，增加采样率是可以大幅度降低高频的信息丢失的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;岔开话再说一句，不仅是在音频领域，在通信领域，现在也基本不会有人去做正好满足“采样频率是频谱中最高频率的2倍”的通信系统，理由就是如我上面所解释的一样。在工程实践中”8倍过采样“、”16倍过采样“都是常态。&lt;/p&gt;
-&lt;p&gt;估计有人要和我杠说：”我15KHz以上都听不见了，你还在这里扯22KHz！？“或者”高频要那么多信息干什么？“，行，我们再换一个角度去理解采样率：&lt;/p&gt;
-&lt;p&gt;假如我用44.1khz采样率的方式去采样一个10khz的正弦声波（这个假设可一点都不离谱），那么平均每个周期的”声音分辨率“就是4.41个点；&lt;/p&gt;
-&lt;p&gt;而我如果用96khz的采样率，那么平均每个周期的”声音分辨率“就是9.6个点；&lt;/p&gt;
-&lt;p&gt;如果用192khz的采样率，那么平均每个周期的”声音分辨率“就是19.2个点；&lt;/p&gt;
-&lt;p&gt;如果用384khz的采样率，那么平均每个周期的”声音分辨率“就是38.4个点；&lt;/p&gt;
-&lt;p&gt;而回放还原的时候，就像是你拿着这些点，然后”描点作图“，大家小时候肯定都学过数学，你觉得同样是让你描一个正弦波，一个周期只给你稀疏的两个点与一个周期给你密密麻麻38个点这两个哪个难度更高？哪个描出来更漂亮？我觉得不用我说了吧。&lt;/p&gt;
-&lt;p&gt;所以说，高采样率可以使得低频信号的还原变得更精确。我个人认为Sony将其命名为”Hi-Res“是非常恰当的，即：”高解析度音频“。&lt;/p&gt;
-&lt;h2 id=&#34;english-ver&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#english-ver&#34;&gt;&lt;/a&gt; English Ver&lt;/h2&gt;
+&lt;p&gt;懂了吗，“奈奎斯特 - 香农采样定理” 固然指出” 理论上 40KHz 的采样率就够了 “，&lt;strong&gt;但是在实际工程生产实践中，增加采样率是可以大幅度降低高频的信息丢失的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;岔开话再说一句，不仅是在音频领域，在通信领域，现在也基本不会有人去做正好满足 “采样频率是频谱中最高频率的 2 倍” 的通信系统，理由就是如我上面所解释的一样。在工程实践中”8 倍过采样 “、”16 倍过采样 “都是常态。&lt;/p&gt;
+&lt;p&gt;估计有人要和我杠说：” 我 15KHz 以上都听不见了，你还在这里扯 22KHz！？“或者” 高频要那么多信息干什么？“，行，我们再换一个角度去理解采样率：&lt;/p&gt;
+&lt;p&gt;假如我用 44.1khz 采样率的方式去采样一个 10khz 的正弦声波（这个假设可一点都不离谱），那么平均每个周期的” 声音分辨率 “就是 4.41 个点；&lt;/p&gt;
+&lt;p&gt;而我如果用 96khz 的采样率，那么平均每个周期的” 声音分辨率 “就是 9.6 个点；&lt;/p&gt;
+&lt;p&gt;如果用 192khz 的采样率，那么平均每个周期的” 声音分辨率 “就是 19.2 个点；&lt;/p&gt;
+&lt;p&gt;如果用 384khz 的采样率，那么平均每个周期的” 声音分辨率 “就是 38.4 个点；&lt;/p&gt;
+&lt;p&gt;而回放还原的时候，就像是你拿着这些点，然后” 描点作图 “，大家小时候肯定都学过数学，你觉得同样是让你描一个正弦波，一个周期只给你稀疏的两个点与一个周期给你密密麻麻 38 个点这两个哪个难度更高？哪个描出来更漂亮？我觉得不用我说了吧。&lt;/p&gt;
+&lt;p&gt;所以说，高采样率可以使得低频信号的还原变得更精确。我个人认为 Sony 将其命名为”Hi-Res“是非常恰当的，即：” 高解析度音频 “。&lt;/p&gt;
+&lt;h2 id=&#34;english-ver&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#english-ver&#34;&gt;#&lt;/a&gt; English Ver&lt;/h2&gt;
 &lt;p&gt;This version was translated by using Google Translate,so may contain mistakes.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-lossless-music&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#what-is-lossless-music&#34;&gt;&lt;/a&gt; What is lossless music?&lt;/h3&gt;
+&lt;h3 id=&#34;what-is-lossless-music&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-is-lossless-music&#34;&gt;#&lt;/a&gt; What is lossless music?&lt;/h3&gt;
 &lt;p&gt;In short, it is music that is not deliberately compressed.&lt;/p&gt;
 &lt;p&gt;The well-known MP3 is a method of cutting off the head and tail of CD (tape, record, etc.) music files. In other words, MP3 mainly compresses the three main file parameters of the frequency response range, sampling density and dynamic range of the music, so as to achieve the purpose of small size and convenient transmission. Lossless music refers to a direct-output file that is infinitely close to the sampled track, but it is still compressed, but the compression process fully retains the more original sound in an objective sense.&lt;/p&gt;
-&lt;h3 id=&#34;where-can-i-listen-to-lossless&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#where-can-i-listen-to-lossless&#34;&gt;&lt;/a&gt; Where can I listen to lossless?&lt;/h3&gt;
+&lt;h3 id=&#34;where-can-i-listen-to-lossless&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#where-can-i-listen-to-lossless&#34;&gt;#&lt;/a&gt; Where can I listen to lossless?&lt;/h3&gt;
 &lt;p&gt;Apple Music. Jobs was an avid music lover. In order to promote iPod, he had an agreement with various record companies to give Apple master tapes. However, due to network restrictions, it was impossible to upload master tapes, so the music uploaded was based on the compressed (lossless in another sense) master tapes.&lt;/p&gt;
 &lt;p&gt;When domestic platforms (NetEase Cloud, QQ Music, Kugou) started, the music sources were mostly files of unknown origin that passed through the hands of several people. The first upload may be files compressed by CDs, but the quality of the music continued to decline after several people reposted it. In order to make the files reach the lossless standard, the sound source can be rendered, some meaningless high and low frequencies can be added, and the volume can be increased.&lt;/p&gt;
-&lt;h3 id=&#34;how-to-distinguish-true-and-false-lossless&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#how-to-distinguish-true-and-false-lossless&#34;&gt;&lt;/a&gt; How to distinguish true and false lossless&lt;/h3&gt;
-&lt;h4 id=&#34;method-1-listen-directly-with-your-ears&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#method-1-listen-directly-with-your-ears&#34;&gt;&lt;/a&gt; Method 1 Listen directly with your ears.&lt;/h4&gt;
+&lt;h3 id=&#34;how-to-distinguish-true-and-false-lossless&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#how-to-distinguish-true-and-false-lossless&#34;&gt;#&lt;/a&gt; How to distinguish true and false lossless&lt;/h3&gt;
+&lt;h4 id=&#34;method-1-listen-directly-with-your-ears&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#method-1-listen-directly-with-your-ears&#34;&gt;#&lt;/a&gt; Method 1 Listen directly with your ears.&lt;/h4&gt;
 &lt;p&gt;The simplest and crudest method, ordinary people can also hear the difference between full loss and lossless.&lt;/p&gt;
 &lt;p&gt;However, to distinguish 320bit and flac, true and false flac, you need an excellent front end, headphone amplifier (power amplifier), and headphones worth thousands of yuan to carefully distinguish the characteristics of the sound.&lt;/p&gt;
-&lt;h4 id=&#34;method-2-look-at-the-suffix-if-the-suffix-is-mp3-aac-ogg-m4a-etc-it-is-not-lossless-if-it-is-flac-wav-ape-then-three-quarters-may-be-true-lossless&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#method-2-look-at-the-suffix-if-the-suffix-is-mp3-aac-ogg-m4a-etc-it-is-not-lossless-if-it-is-flac-wav-ape-then-three-quarters-may-be-true-lossless&#34;&gt;&lt;/a&gt; Method 2 Look at the suffix. If the suffix is ​​mp3, aac, ogg, m4a, etc., it is not lossless; If it is flac, wav, ape, then three quarters may be true lossless.&lt;/h4&gt;
-&lt;p&gt;Look at the volume. If it is greater than 20mb for about three minutes, it may be lossless, and if it is less than that, don’t consider it.&lt;/p&gt;
-&lt;h4 id=&#34;method-3-main-identify-through-the-spek-project&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#method-3-main-identify-through-the-spek-project&#34;&gt;&lt;/a&gt; Method 3 (main) Identify through the spek project&lt;/h4&gt;
+&lt;h4 id=&#34;method-2-look-at-the-suffix-if-the-suffix-is-mp3-aac-ogg-m4a-etc-it-is-not-lossless-if-it-is-flac-wav-ape-then-three-quarters-may-be-true-lossless&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#method-2-look-at-the-suffix-if-the-suffix-is-mp3-aac-ogg-m4a-etc-it-is-not-lossless-if-it-is-flac-wav-ape-then-three-quarters-may-be-true-lossless&#34;&gt;#&lt;/a&gt; Method 2 Look at the suffix. If the suffix is ​​mp3, aac, ogg, m4a, etc., it is not lossless; If it is flac, wav, ape, then three quarters may be true lossless.&lt;/h4&gt;
+&lt;p&gt;Look at the volume. If it is greater than 20mb for about three minutes, it may be lossless, and if it is less than that, don&#39;t consider it.&lt;/p&gt;
+&lt;h4 id=&#34;method-3-main-identify-through-the-spek-project&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#method-3-main-identify-through-the-spek-project&#34;&gt;#&lt;/a&gt; Method 3 (main) Identify through the spek project&lt;/h4&gt;
 &lt;p&gt;Link: [spek]&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2hlbHAuc3Blay5jYy8=&#34;&gt;http://help.spek.cc/&lt;/span&gt;&lt;br&gt;
 spek analyzes the frequency range of the audio file and converts it into an image, which can intuitively and vividly distinguish true and false lossless. The principle is to detect whether the high-frequency information of the audio is missing. If the missing is serious, it means that the audio may be false lossless. However, it cannot be 100% certain. Many lossless files converted from original CDs already have high-frequency loss. It can only be said that negligence was caused during the record production process-this phenomenon is common.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If the part below 22khz is neatly cut, it is false lossless; 24khz is full and it is true lossless&lt;/strong&gt;&lt;/p&gt;
@@ -527,10 +528,10 @@ spek analyzes the frequency range of the audio file and converts it into an imag
 &lt;p&gt;In order to disguise low-quality music as lossless, some netizens will deliberately add some meaningless high frequencies that are inaudible to the human ear to increase the size of the audio file, as follows:&lt;br&gt;
 &lt;img data-src=&#34;https://www.z4a.net/images/2024/06/15/8f93ed2ab3d1ec2936595f45034072ad.png&#34; alt=&#34;fake lossless&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A neat cut at about 55-60khz, the above frequency loudness is basically the same, and it can be seen at a glance that it is artificially added.&lt;/p&gt;
-&lt;h4 id=&#34;why-is-a-frequency-above-22khz-needed&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#why-is-a-frequency-above-22khz-needed&#34;&gt;&lt;/a&gt; Why is a frequency above 22khz needed?&lt;/h4&gt;
+&lt;h4 id=&#34;why-is-a-frequency-above-22khz-needed&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#why-is-a-frequency-above-22khz-needed&#34;&gt;#&lt;/a&gt; Why is a frequency above 22khz needed?&lt;/h4&gt;
 &lt;p&gt;As we all know, the hearing range of the human ear is about 20-20000hz frequency sound, and the high frequency of a slightly more sensitive ear can reach 22000-24000h. What is the significance of 44khz and 192khz that can be seen everywhere in lossless to the human ear? To be honest, very few audiophiles can hear the difference between 44khz and 192khz. Most of them are just hints of psychological superiority and the faith of audiophiles. Psychological hints and faith really work wonders.&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2024/06/15/8f93ed2ab3d1ec2936595f45034072ad.png&#34; alt=&#34;假无损&#34;&gt;&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;But there is still a regular explanation. The following is the answer of Zhiyou &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9wby1mZW5nLXNoZW4taHVh&#34;&gt;破风神话&lt;/span&gt; based on the “Nyquist-Shannon Sampling Theorem”:&lt;/p&gt;
+&lt;p&gt;But there is still a regular explanation. The following is the answer of Zhiyou &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9wby1mZW5nLXNoZW4taHVh&#34;&gt;破风神话&lt;/span&gt; based on the &amp;quot;Nyquist-Shannon Sampling Theorem&amp;quot;:&lt;/p&gt;
 &lt;p&gt;If I use a 44.1khz sampling rate to sample a 22.05khz sine wave (we assume that the human ear can hear a 22.05khz sound wave, which is a bit outrageous, but not too outrageous), then it means that one cycle of the sine wave will be sampled at two points.&lt;/p&gt;
 &lt;p&gt;The ideal situation you (and Nyquist) think: these two points are exactly aligned and sampled at the maximum and minimum points of the sine wave, and the resulting digital signal can be perfectly restored to the original sound wave when it is played back through a low-pass filter.&lt;/p&gt;
 &lt;p&gt;Actual situation: These two points are impossible to be sampled at the maximum and minimum points of the sound wave. Such a playback system will cause the gradual attenuation of high-frequency information.&lt;/p&gt;
@@ -539,15 +540,15 @@ spek analyzes the frequency range of the audio file and converts it into an imag
 &lt;p&gt;Ideal situation: It is completely unnecessary, a waste of resources, and these people are stupid.&lt;/p&gt;
 &lt;p&gt;Actual situation: On average, more than 4 points are sampled per cycle, and the probability of sampling at the maximum and minimum values ​​increases. At the same time, even if it does not increase, the error of the sampled points from the maximum and minimum values is reduced, and the attenuation of information is much less than 44.1khz.&lt;/p&gt;
 &lt;p&gt;The actual worst case (which often happens): At most two points are sampled at the zero-crossing point. Anyway, I have two other points, and in this case, the other two points are basically at the extreme points of the sound wave. I can still recover the information, and there will never be a situation where the information is completely lost.&lt;/p&gt;
-&lt;p&gt;Do you understand? The “Nyquist-Shannon Sampling Theorem” points out that “theoretically, a sampling rate of 40KHz is enough”, but in actual engineering production practice, increasing the sampling rate can greatly reduce the loss of high-frequency information.&lt;/p&gt;
-&lt;p&gt;Let me digress and say that not only in the audio field, but also in the communication field, basically no one will make a communication system that just meets the “sampling frequency is twice the highest frequency in the spectrum”, and the reason is as I explained above. In engineering practice, “8x oversampling” and “16x oversampling” are the norm.&lt;/p&gt;
-&lt;p&gt;I guess someone will argue with me: “I can’t hear anything above 15KHz, why are you still talking about 22KHz!?” or “Why do high frequencies need so much information?” OK, let’s understand the sampling rate from another angle:&lt;/p&gt;
-&lt;p&gt;If I use a 44.1khz sampling rate to sample a 10khz sine wave (this assumption is not outrageous at all), then the average “sound resolution” per cycle is 4.41 points;&lt;/p&gt;
-&lt;p&gt;If I use a 96khz sampling rate, then the average “sound resolution” per cycle is 9 .6 points;&lt;/p&gt;
-&lt;p&gt;If the sampling rate is 192khz, the average “sound resolution” per cycle is 19.2 points;&lt;/p&gt;
-&lt;p&gt;If the sampling rate is 384khz, the average “sound resolution” per cycle is 38.4 points;&lt;/p&gt;
-&lt;p&gt;When playing back and restoring, it is like you are holding these points and “drawing points and drawing pictures”. Everyone must have learned mathematics when they were young. Do you think it is more difficult to draw a sine wave with only two sparse points in one cycle and 38 dense points in one cycle? Which one is more beautiful? I don’t think I need to say it.&lt;/p&gt;
-&lt;p&gt;Therefore, high sampling rate can make the restoration of low-frequency signals more accurate. I personally think that Sony’s name “Hi-Res” is very appropriate, that is, “high-resolution audio”.&lt;/p&gt;
+&lt;p&gt;Do you understand? The &amp;quot;Nyquist-Shannon Sampling Theorem&amp;quot; points out that &amp;quot;theoretically, a sampling rate of 40KHz is enough&amp;quot;, but in actual engineering production practice, increasing the sampling rate can greatly reduce the loss of high-frequency information.&lt;/p&gt;
+&lt;p&gt;Let me digress and say that not only in the audio field, but also in the communication field, basically no one will make a communication system that just meets the &amp;quot;sampling frequency is twice the highest frequency in the spectrum&amp;quot;, and the reason is as I explained above. In engineering practice, &amp;quot;8x oversampling&amp;quot; and &amp;quot;16x oversampling&amp;quot; are the norm.&lt;/p&gt;
+&lt;p&gt;I guess someone will argue with me: &amp;quot;I can&#39;t hear anything above 15KHz, why are you still talking about 22KHz!?&amp;quot; or &amp;quot;Why do high frequencies need so much information?&amp;quot; OK, let&#39;s understand the sampling rate from another angle:&lt;/p&gt;
+&lt;p&gt;If I use a 44.1khz sampling rate to sample a 10khz sine wave (this assumption is not outrageous at all), then the average &amp;quot;sound resolution&amp;quot; per cycle is 4.41 points;&lt;/p&gt;
+&lt;p&gt;If I use a 96khz sampling rate, then the average &amp;quot;sound resolution&amp;quot; per cycle is 9 .6 points;&lt;/p&gt;
+&lt;p&gt;If the sampling rate is 192khz, the average &amp;quot;sound resolution&amp;quot; per cycle is 19.2 points;&lt;/p&gt;
+&lt;p&gt;If the sampling rate is 384khz, the average &amp;quot;sound resolution&amp;quot; per cycle is 38.4 points;&lt;/p&gt;
+&lt;p&gt;When playing back and restoring, it is like you are holding these points and &amp;quot;drawing points and drawing pictures&amp;quot;. Everyone must have learned mathematics when they were young. Do you think it is more difficult to draw a sine wave with only two sparse points in one cycle and 38 dense points in one cycle? Which one is more beautiful? I don&#39;t think I need to say it.&lt;/p&gt;
+&lt;p&gt;Therefore, high sampling rate can make the restoration of low-frequency signals more accurate. I personally think that Sony&#39;s name &amp;quot;Hi-Res&amp;quot; is very appropriate, that is, &amp;quot;high-resolution audio&amp;quot;.&lt;/p&gt;
 </content>
         <category term="数码" scheme="https://xjp66666.github.io/categories/%E6%95%B0%E7%A0%81/" />
         <category term="数码" scheme="https://xjp66666.github.io/tags/%E6%95%B0%E7%A0%81/" />
