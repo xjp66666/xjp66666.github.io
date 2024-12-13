@@ -7,6 +7,21 @@
     "home_page_url": "https://xjp66666.github.io",
     "items": [
         {
+            "id": "https://xjp66666.github.io/2024/12/13/ArcGis%20Study/",
+            "url": "https://xjp66666.github.io/2024/12/13/ArcGis%20Study/",
+            "title": "ArcGis Study",
+            "date_published": "2024-12-13T05:00:00.000Z",
+            "content_html": "<h3 id=\"india-states-and-union-territories-jason-dec-11\"><a class=\"anchor\" href=\"#india-states-and-union-territories-jason-dec-11\">#</a> India States and Union Territories Jason Dec 11</h3>\n<!-- Add script to the <head> of your page to load the embeddable map component -->\n<script type=\"module\" src=\"https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js\"></script>\n<!-- Add custom element to <body> of your page -->\n<p><arcgis-embedded-map style=\"height:600px;width:700px;\" item-id=\"61525f7030a648fa9149495c50078df1\" theme=\"light\" portal-url=\"https://onedu.maps.arcgis.com\" bookmarks-enabled heading-enabled legend-enabled information-enabled></arcgis-embedded-map></p>\n",
+            "tags": [
+                "ArcGis",
+                "计算机",
+                "ArcGis",
+                "ArcGis Pro",
+                "esri",
+                "地理"
+            ]
+        },
+        {
             "id": "https://xjp66666.github.io/2024/11/01/%E6%89%93%E7%81%AB%E6%9C%BA/",
             "url": "https://xjp66666.github.io/2024/11/01/%E6%89%93%E7%81%AB%E6%9C%BA/",
             "title": "打火机",
@@ -66,6 +81,18 @@
             ]
         },
         {
+            "id": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/",
+            "url": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/",
+            "title": "CS学习.1-2-Careers",
+            "date_published": "2024-09-05T04:00:00.000Z",
+            "content_html": "<h2 id=\"cs-careers\"><a class=\"anchor\" href=\"#cs-careers\">#</a> CS Careers</h2>\n<p><em>By Jason Liang</em></p>\n<h3 id=\"1st-careercomputer-engineer\"><a class=\"anchor\" href=\"#1st-careercomputer-engineer\">#</a> 1st career:computer engineer</h3>\n<p>Median Salary:</p>\n<p>$82,917 per year</p>\n<p>Brief Description:</p>\n<p>·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.</p>\n<p>4 Duties or Responsibilities：</p>\n<p>1.test computer systems.</p>\n<p>2.Repair servers/computers</p>\n<p>3.create programs</p>\n<p>4.。</p>\n<p>Education Pathway:</p>\n<p>Most entry-level computer engineering jobs require at least a bachelor's in computer science, computer engineering, or electrical engineering.</p>\n<p>Experience Required:</p>\n<p>Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.</p>\n<h3 id=\"2nd-careercomputer-network-architect\"><a class=\"anchor\" href=\"#2nd-careercomputer-network-architect\">#</a> 2nd career:Computer network architect</h3>\n<p>Median Salary:</p>\n<p>$129,566 per year</p>\n<p>Brief Description:</p>\n<p>·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.</p>\n<p>4 Duties or Responsibilities:</p>\n<p>1.designing, building, deploying and maintaining such networks</p>\n<p>2.gathering the organization's requirements,</p>\n<p>3.planning networks based on the needs</p>\n<p>4.researching new technologies that may be useful to the organization and applying upgrades</p>\n<p>Education Pathway:</p>\n<p>Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.</p>\n<p>Experience Required:</p>\n<p>Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.</p>\n",
+            "tags": [
+                "计算机科学computerscience",
+                "数码",
+                "cs学习笔记"
+            ]
+        },
+        {
             "id": "https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/",
             "url": "https://xjp66666.github.io/2024/09/05/ecy/%E7%8E%A9%E8%BF%87%E3%81%AEGal/",
             "title": "玩过のGal",
@@ -76,18 +103,6 @@
                 "Galgame",
                 "二次元杂谈",
                 "黄油"
-            ]
-        },
-        {
-            "id": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/",
-            "url": "https://xjp66666.github.io/2024/09/05/cs/cs%E5%AD%A6%E4%B9%A0.1-2-Careers/",
-            "title": "CS学习.1-2-Careers",
-            "date_published": "2024-09-05T04:00:00.000Z",
-            "content_html": "<h2 id=\"cs-careers\"><a class=\"anchor\" href=\"#cs-careers\">#</a> CS Careers</h2>\n<p><em>By Jason Liang</em></p>\n<h3 id=\"1st-careercomputer-engineer\"><a class=\"anchor\" href=\"#1st-careercomputer-engineer\">#</a> 1st career:computer engineer</h3>\n<p>Median Salary:</p>\n<p>$82,917 per year</p>\n<p>Brief Description:</p>\n<p>·Computer engineers research, design, develop, and test computer systems. Some engineers specialize in hardware or software engineering. By creating and improving devices and programs, these technology professionals help keep the technical world working safer, smarter, and faster.</p>\n<p>4 Duties or Responsibilities：</p>\n<p>1.test computer systems.</p>\n<p>2.Repair servers/computers</p>\n<p>3.create programs</p>\n<p>4.。</p>\n<p>Education Pathway:</p>\n<p>Most entry-level computer engineering jobs require at least a bachelor's in computer science, computer engineering, or electrical engineering.</p>\n<p>Experience Required:</p>\n<p>Typically, employers expect computer engineers to possess programming expertise, as well as knowledge of computer hardware, software, and advanced math concepts. Additionally, computer engineers should be proficient in algorithms, data structures, and architecture. These professionals also need strong communication, analytical, and interpersonal skills.</p>\n<h3 id=\"2nd-careercomputer-network-architect\"><a class=\"anchor\" href=\"#2nd-careercomputer-network-architect\">#</a> 2nd career:Computer network architect</h3>\n<p>Median Salary:</p>\n<p>$129,566 per year</p>\n<p>Brief Description:</p>\n<p>·A computer network architect or a network architect is a computer and information technology expert who helps to plan and create networks for data communication.</p>\n<p>4 Duties or Responsibilities:</p>\n<p>1.designing, building, deploying and maintaining such networks</p>\n<p>2.gathering the organization's requirements,</p>\n<p>3.planning networks based on the needs</p>\n<p>4.researching new technologies that may be useful to the organization and applying upgrades</p>\n<p>Education Pathway:</p>\n<p>Most network engineering jobs require at least a bachelor’s degree in computer science, computer engineering, information technology, network security management or another related field.</p>\n<p>Experience Required:</p>\n<p>Most network engineers have a background in computer science or information technology. They often start in entry-level IT positions and get experience in network administration before advancing to network engineering roles.</p>\n",
-            "tags": [
-                "计算机科学computerscience",
-                "数码",
-                "cs学习笔记"
             ]
         },
         {
