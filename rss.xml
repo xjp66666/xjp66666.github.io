@@ -10,8 +10,53 @@
         </author>
         <description>math hater &amp; vn enjoyer</description>
         <language>en</language>
-        <pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
-        <lastBuildDate>Fri, 20 Feb 2026 00:00:00 -0500</lastBuildDate>
+        <pubDate>Sat, 28 Feb 2026 13:55:56 -0500</pubDate>
+        <lastBuildDate>Sat, 28 Feb 2026 13:55:56 -0500</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://xjp66666.github.io/2026/02/28/PID-controller/</guid>
+            <title>PID-Controller</title>
+            <link>https://xjp66666.github.io/2026/02/28/PID-controller/</link>
+            <category term="FRC" scheme="https://xjp66666.github.io/tags/FRC/" />
+            <pubDate>Sat, 28 Feb 2026 13:55:56 -0500</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;intro&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intro&#34;&gt;#&lt;/a&gt; INTRO&lt;/h1&gt;
+&lt;p&gt;In this article, I&#39;m going to explain PID Controller - what is it, why do we use it, and how it works - as briefly as I can, so that you can have at least a basic understanding for tuning our FRC robot. &lt;s&gt;I will try my best to explain like you are 5 years old.&lt;/s&gt; There might be mistakes so plz point them out and leave a comment below.&lt;/p&gt;
+&lt;h1 id=&#34;explanation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#explanation&#34;&gt;#&lt;/a&gt; Explanation&lt;/h1&gt;
+&lt;p&gt;We are not going start with the complicated math formula but rather a simple and easy-to-understand situation.&lt;/p&gt;
+&lt;h2 id=&#34;proportional-controller&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#proportional-controller&#34;&gt;#&lt;/a&gt; Proportional Controller&lt;/h2&gt;
+&lt;p&gt;Imagine you have a drone. And you want raise it all the way up to 50 meters high. Sounds pretty easy huh? But currently we are not even controlling the drone. So what should we do to the propeller motors?&lt;/p&gt;
+&lt;p&gt;Let it spin.&lt;/p&gt;
+&lt;p&gt;So we can construct a proportional(P) controller to approach our goal. What the proportional controller does is that it&#39;s going to set the out put to &lt;strong&gt;e(t) * Kp&lt;/strong&gt;. &amp;quot;e&amp;quot; stands for error which is the distance between the drone and 50 meters in this case, and Kp is a constant we set up after tuning it a lot of times times. So &lt;strong&gt;theoretically&lt;/strong&gt; the error will be eliminated over time, like this:&lt;/p&gt;
+&lt;p&gt;Start with an error of 50 meters.&lt;br /&gt;
+Say we have a Kp of 0.5.&lt;br /&gt;
+When t = 0s, e = 50m, v = 0.5 * 50 = 25m/s;&lt;br /&gt;
+When t = 1s, e = 25m, v = 0.5 * 25 = 12.5m/s;&lt;br /&gt;
+When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
+...&lt;/p&gt;
+&lt;p&gt;So we should get a e(t) graph like this:&lt;/p&gt;
+&lt;p&gt;im graph.&lt;/p&gt;
+&lt;p&gt;What a beautiful curve. It seems like it is enough to reach our goal with only a proportional controller. So far so good.&lt;/p&gt;
+&lt;p&gt;However, once we apply it to a real drone, weird things will happen. If you record the e(t) graph of a real P-controller-only drone, it will end up like this:&lt;/p&gt;
+&lt;p&gt;It looks ugly isn&#39;t it. So now we have to talk about what happened to our drone, or even, if there is something we&#39;re missing.&lt;/p&gt;
+&lt;p&gt;Our first graph looks perfect because we assumed the drone was in a non-physical world instead of a real world environment, therefore we ignored two serious problems: &lt;strong&gt;overshooting&lt;/strong&gt;, which is generally caused by inertia, and &lt;strong&gt;steady-state&lt;/strong&gt;. Let&#39;s talk about steady-state first.&lt;/p&gt;
+&lt;h3 id=&#34;steady-state&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#steady-state&#34;&gt;#&lt;/a&gt; Steady-State&lt;/h3&gt;
+&lt;p&gt;Consider this question: what will happen after the drone was lifted to 50 meters high? Since the error is 0 meters, the output v will become 0 * 0.5 = 0m/s. Compare this to a plane at a height of 5,000 meters above the ground and suddenly you turn off the engine. Well it&#39;s a little bit different, because once the error is not 0 our drone will go back up. We still don&#39;t want this to happen though. We have to make sure the output is non-zero when it reaches the goal.&lt;/p&gt;
+&lt;p&gt;This is when we need to add another controller.&lt;/p&gt;
+&lt;h2 id=&#34;integral-controller&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#integral-controller&#34;&gt;#&lt;/a&gt; Integral Controller&lt;/h2&gt;
+&lt;p&gt;The integral(I) controller capable of eliminating steady-state. What an integral controller does it that it&#39;s going to add the accumulation, which is the integral of &lt;strong&gt;1/Ki * e(t)&lt;/strong&gt; to the output. Since the error is always a positive number before reaching the goal, the output should also be a positive when it reaches the goal. However, a I controller is not able to resolve overshooting. Actually, it is going to aggravate overshooting if you have a really big Ki or Kp.&lt;/p&gt;
+&lt;h3 id=&#34;overshooting&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#overshooting&#34;&gt;#&lt;/a&gt; Overshooting&lt;/h3&gt;
+&lt;p&gt;As I mentioned above, overshooting is caused by inertia, which is a very very basic physical concept that you should have learned in elementary school. If you have never heard of it, you really should blame your elementary school teacher. I&#39;m going to explain it here anyways. Imagine you are in a car at a velocity of 100m/s(this is really fast I have to say), and suddenly it decelerates to 0m/s and coincidentally you forget to buckle up your seat belt. What will happen? You are probably going to smash the windshield with your poor head and fly out of the car at a really high speed. This tells us &lt;s&gt;the necessity of buckling up the seat belt&lt;/s&gt; that objects has the natural tendency to resist changes in its state of motion. Same with our drone, we did not decelerate the motors before it reaches the goal so it will continue to go up a bit.&lt;/p&gt;
+&lt;p&gt;Therefore, we have to add one last controller to our drone.&lt;/p&gt;
+&lt;h2 id=&#34;derivative-controller&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#derivative-controller&#34;&gt;#&lt;/a&gt; Derivative Controller&lt;/h2&gt;
+&lt;p&gt;The Derivative(D) controller is used to address our second problem - overshooting. Derivative controller adds a third term, &lt;strong&gt;Kd * d/dt * e(t)&lt;/strong&gt; to our main controller. Let me explain derivative first.&lt;/p&gt;
+&lt;h3 id=&#34;derivativeor-instant-rate-of-change&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#derivativeor-instant-rate-of-change&#34;&gt;#&lt;/a&gt; Derivative(or instant rate of change)&lt;/h3&gt;
+&lt;p&gt;Derivative is really just a fancy word for representing the instant rate of change of a function. If you have taken grade 9 math then you should be familiar with slope - and yeah the slope is the derivative of a linear function. Here is the general formula for calculating the derivative of every functions:&lt;/p&gt;
+&lt;p&gt;ps: I wrote a derivation of the power rule in another article xxx, plz go and check it if you are interested.&lt;/p&gt;
+&lt;h3 id=&#34;calculation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#calculation&#34;&gt;#&lt;/a&gt; Calculation&lt;/h3&gt;
+&lt;p&gt;So the calculation of D term should be:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(e(t1) - e(t0)) * aVerySmallAmountOfTime * Kd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;aVerySmallAmountOfTime&amp;quot; depends on the time between control loop iterations. Before reaching our goal, the term is always a negative number which will decrease the output speed. Also the faster the done approaches the goal, the smaller the number is, so that it can effectively neutralize overshooting.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://xjp66666.github.io/2026/02/20/hello-world/</guid>
             <title>Hello World</title>
