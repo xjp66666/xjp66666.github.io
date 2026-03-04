@@ -33,9 +33,10 @@ When t = 1s, e = 25m, v = 0.5 * 25 = 12.5m/s;&lt;br /&gt;
 When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
 ...&lt;/p&gt;
 &lt;p&gt;So we should get a e(t) graph like this:&lt;/p&gt;
-&lt;p&gt;im graph.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/dodx9dm91/image/upload/v1772587256/pid-graph-1_xe6jf0.png&#34; alt=&#34;I&#39;m graph!&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;What a beautiful curve. It seems like it is enough to reach our goal with only a proportional controller. So far so good.&lt;/p&gt;
 &lt;p&gt;However, once we apply it to a real drone, weird things will happen. If you record the e(t) graph of a real P-controller-only drone, it will end up like this:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/dodx9dm91/image/upload/v1772587256/pid-graph-2_ycwhp3.png&#34; alt=&#34;I&#39;m graph!&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;It looks ugly isn&#39;t it. So now we have to talk about what happened to our drone, or even, if there is something we&#39;re missing.&lt;/p&gt;
 &lt;p&gt;Our first graph looks perfect because we assumed the drone was in a non-physical world instead of a real world environment, therefore we ignored two serious problems: &lt;strong&gt;overshooting&lt;/strong&gt;, which is generally caused by inertia, and &lt;strong&gt;steady-state&lt;/strong&gt;. Let&#39;s talk about steady-state first.&lt;/p&gt;
 &lt;h3 id=&#34;steady-state&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#steady-state&#34;&gt;#&lt;/a&gt; Steady-State&lt;/h3&gt;
@@ -92,6 +93,8 @@ When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
 &lt;/html&gt;
 &lt;/p&gt;
 &lt;p&gt;And now with PID controller we get a perfect e(t) graph:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/dodx9dm91/image/upload/v1772587256/pid-graph-1_xe6jf0.png&#34; alt=&#34;I&#39;m graph!&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;What a beautiful curve.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -100,7 +103,7 @@ When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
             <link>https://xjp66666.github.io/2026/02/20/hello-world/</link>
             <pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;why-hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#why-hexo&#34;&gt;#&lt;/a&gt; Why Hexo&lt;/h3&gt;
-&lt;p&gt;A few years ago, when I was in elementary school, I build my first web blog.&lt;/p&gt;
+&lt;p&gt;A few years ago, when I was in elementary school, I built my first web blog.&lt;/p&gt;
 &lt;p&gt;The reason was because one day when my math teacher was chanting lullaby as usual and I was whispering to my desk mate in order to not fall asleep. I can&#39;t remember why I said that but &amp;quot;I wish I could have my own website. That would be sooo cool&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Coincidentally he is a computer tech master. Yes. When everyone was forced to study 15 hours a day, he still managed to take some time to learn Coding.&lt;/p&gt;
 &lt;p&gt;&amp;quot;Why not using Hexo?&amp;quot; he said, &amp;quot;its neat, easy-to-use, and highly customizable. You don&#39;t even have to write a single line of html code cuz Hexo is capable of generating static web pages from your markdown files.&amp;quot;&lt;/p&gt;
