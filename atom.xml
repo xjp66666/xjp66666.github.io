@@ -16,7 +16,7 @@
         <content type="html">&lt;h1 id=&#34;intro&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#intro&#34;&gt;#&lt;/a&gt; INTRO&lt;/h1&gt;
 &lt;p&gt;In this article, I&#39;m going to explain PID Controller - what is it, why do we use it, and how it works - as briefly as I can, so that you can have at least a basic understanding for tuning our FRC robot. &lt;s&gt;I will try my best to explain like you are 5 years old.&lt;/s&gt; There might be mistakes so plz point them out and leave a comment below.&lt;/p&gt;
 &lt;h1 id=&#34;explanation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#explanation&#34;&gt;#&lt;/a&gt; Explanation&lt;/h1&gt;
-&lt;p&gt;We are not going start with the complicated math formula but rather a simple and easy-to-understand situation.&lt;/p&gt;
+&lt;p&gt;We are not going to start with the complicated math formula but rather a simple and easy-to-understand situation.&lt;/p&gt;
 &lt;h2 id=&#34;proportional-controller&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#proportional-controller&#34;&gt;#&lt;/a&gt; Proportional Controller&lt;/h2&gt;
 &lt;p&gt;Imagine you have a drone. And you want raise it all the way up to 50 meters high. Sounds pretty easy huh? But currently we are not even controlling the drone. So what should we do to the propeller motors?&lt;/p&gt;
 &lt;p&gt;Let it spin.&lt;/p&gt;
@@ -48,8 +48,45 @@ When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
 &lt;p&gt;ps: I wrote a derivation of the power rule in another article xxx, plz go and check it if you are interested.&lt;/p&gt;
 &lt;h3 id=&#34;calculation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#calculation&#34;&gt;#&lt;/a&gt; Calculation&lt;/h3&gt;
 &lt;p&gt;So the calculation of D term should be:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;(e(t1) - e(t0)) * aVerySmallAmountOfTime * Kd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;PID Derivative Term&lt;/title&gt;
+  &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+  &lt;p&gt;
+    \[ u_d(t) = K_d \cdot \frac{e(t_1) - e(t_0)}{\text{aSmallAmountOfTime}} \]
+  &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/p&gt;
 &lt;p&gt;&amp;quot;aVerySmallAmountOfTime&amp;quot; depends on the time between control loop iterations. Before reaching our goal, the term is always a negative number which will decrease the output speed. Also the faster the done approaches the goal, the smaller the number is, so that it can effectively neutralize overshooting.&lt;/p&gt;
+&lt;h1 id=&#34;definition-what-is-pid&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#definition-what-is-pid&#34;&gt;#&lt;/a&gt; Definition: what is PID&lt;/h1&gt;
+&lt;p&gt;We went through P, I and D separately and problems each of them solved. Now we are going to have an official definition of PID, and its math formula:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A proportional–integral–derivative controller (PID controller or three-term controller) is a feedback-based control loop mechanism commonly used to manage machines and processes that require continuous control and automatic adjustment.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;PID Formula&lt;/title&gt;
+  &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+  &lt;p&gt;
+    \[ u(t) = K_p e(t) + K_i \int_0^t e(\tau)\, d\tau + K_d \frac{de(t)}{dt} \]
+  &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/p&gt;
+&lt;p&gt;And now with PID controller we get a perfect e(t) graph:&lt;/p&gt;
 </content>
         <category term="FRC" scheme="https://xjp66666.github.io/tags/FRC/" />
         <updated>2026-02-28T18:55:56.000Z</updated>
