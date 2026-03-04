@@ -65,7 +65,7 @@ When t = 2s, e = 12.5m, v = 0.5 * 12.5 = 6.25m/s;&lt;br /&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 &lt;/p&gt;
-&lt;p&gt;&amp;quot;aVerySmallAmountOfTime&amp;quot; depends on the time between control loop iterations. Before reaching our goal, the term is always a negative number which will decrease the output speed. Also the faster the done approaches the goal, the smaller the number is, so that it can effectively neutralize overshooting.&lt;/p&gt;
+&lt;p&gt;&amp;quot;aVerySmallAmountOfTime&amp;quot; depends on the time between control loop iterations. Before reaching our goal, the term is always a negative number which will decrease the output speed. Also the faster the drone approaches the goal, the smaller the number is, so that it can effectively neutralize overshooting.&lt;/p&gt;
 &lt;h1 id=&#34;definition-what-is-pid&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#definition-what-is-pid&#34;&gt;#&lt;/a&gt; Definition: what is PID&lt;/h1&gt;
 &lt;p&gt;We went through P, I and D separately and problems each of them solved. Now we are going to have an official definition of PID, and its math formula:&lt;/p&gt;
 &lt;blockquote&gt;
