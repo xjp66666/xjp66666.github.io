@@ -7,6 +7,16 @@
     "home_page_url": "https://xjp66666.github.io",
     "items": [
         {
+            "id": "https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/",
+            "url": "https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/",
+            "title": "FRC Scouting App Documentation",
+            "date_published": "2026-03-05T01:10:30.000Z",
+            "content_html": "<p>🚧UNDER CONSTRUCTION🚧</p>\n<h1 id=\"installation\"><a class=\"anchor\" href=\"#installation\">#</a> Installation</h1>\n<p>Install <a href=\"https://docs.flutter.dev/install\">Flutter</a>, <a href=\"https://www.oracle.com/ca-en/java/technologies/downloads/\">Java JDK</a> and <a href=\"https://developer.android.com/studio\">Android Studio</a>.</p>\n<p>Clone the repo <code>git clone https://github.com/Simbotics/Scouting-Platform-Mobile</code></p>\n<p>Under root directory, run <code>flutter run</code> to test the app locally.</p>\n<p>Under root directory, run <code>flutter build apk</code> to build app.</p>\n<h1 id=\"widgets\"><a class=\"anchor\" href=\"#widgets\">#</a> Widgets</h1>\n",
+            "tags": [
+                "FRC"
+            ]
+        },
+        {
             "id": "https://xjp66666.github.io/2026/02/28/PID-controller/",
             "url": "https://xjp66666.github.io/2026/02/28/PID-controller/",
             "title": "PID-Controller",

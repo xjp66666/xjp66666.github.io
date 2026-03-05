@@ -8,7 +8,22 @@
     <author>
       <name>YUZU ATRI</name>
     </author>
-    <updated>2026-02-28T18:55:56.000Z</updated>
+    <updated>2026-03-05T01:10:30.000Z</updated>
+    <entry>
+        <id>https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/</id>
+        <title>FRC Scouting App Documentation</title>
+        <link rel="alternate" href="https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/"/>
+        <content type="html">&lt;p&gt;🚧UNDER CONSTRUCTION🚧&lt;/p&gt;
+&lt;h1 id=&#34;installation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#installation&#34;&gt;#&lt;/a&gt; Installation&lt;/h1&gt;
+&lt;p&gt;Install &lt;a href=&#34;https://docs.flutter.dev/install&#34;&gt;Flutter&lt;/a&gt;, &lt;a href=&#34;https://www.oracle.com/ca-en/java/technologies/downloads/&#34;&gt;Java JDK&lt;/a&gt; and &lt;a href=&#34;https://developer.android.com/studio&#34;&gt;Android Studio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Clone the repo &lt;code&gt;git clone https://github.com/Simbotics/Scouting-Platform-Mobile&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Under root directory, run &lt;code&gt;flutter run&lt;/code&gt; to test the app locally.&lt;/p&gt;
+&lt;p&gt;Under root directory, run &lt;code&gt;flutter build apk&lt;/code&gt; to build app.&lt;/p&gt;
+&lt;h1 id=&#34;widgets&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#widgets&#34;&gt;#&lt;/a&gt; Widgets&lt;/h1&gt;
+</content>
+        <category term="FRC" scheme="https://xjp66666.github.io/tags/FRC/" />
+        <updated>2026-03-05T01:10:30.000Z</updated>
+    </entry>
     <entry>
         <id>https://xjp66666.github.io/2026/02/28/PID-controller/</id>
         <title>PID-Controller</title>
