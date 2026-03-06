@@ -7,11 +7,19 @@
     "home_page_url": "https://xjp66666.github.io",
     "items": [
         {
+            "id": "https://xjp66666.github.io/2026/03/05/Algorithms/",
+            "url": "https://xjp66666.github.io/2026/03/05/Algorithms/",
+            "title": "Algorithms",
+            "date_published": "2026-03-06T01:07:31.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
             "id": "https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/",
             "url": "https://xjp66666.github.io/2026/03/04/FRC-Scouting-App-Documentation/",
             "title": "FRC Scouting App Documentation",
             "date_published": "2026-03-05T01:10:30.000Z",
-            "content_html": "<p>🚧UNDER CONSTRUCTION🚧</p>\n<h1 id=\"installation\"><a class=\"anchor\" href=\"#installation\">#</a> Installation</h1>\n<p>Install <a href=\"https://docs.flutter.dev/install\">Flutter</a>, <a href=\"https://www.oracle.com/ca-en/java/technologies/downloads/\">Java JDK</a> and <a href=\"https://developer.android.com/studio\">Android Studio</a>.</p>\n<p>Clone the repo <code>git clone https://github.com/Simbotics/Scouting-Platform-Mobile</code></p>\n<p>Under root directory, run <code>flutter run</code> to test the app locally.</p>\n<p>Under root directory, run <code>flutter build apk</code> to build app.</p>\n<h1 id=\"widgets\"><a class=\"anchor\" href=\"#widgets\">#</a> Widgets</h1>\n",
+            "content_html": "<p>🚧UNDER CONSTRUCTION🚧</p>\n<h1 id=\"installation\"><a class=\"anchor\" href=\"#installation\">#</a> Installation</h1>\n<p>Install <a href=\"https://docs.flutter.dev/install\">Flutter</a>, <a href=\"https://www.oracle.com/ca-en/java/technologies/downloads/\">Java JDK</a> and <a href=\"https://developer.android.com/studio\">Android Studio</a>.</p>\n<p>Clone the repo <code>git clone https://github.com/Simbotics/Scouting-Platform-Mobile</code></p>\n<p>Under root directory, run the command below to test the app locally.</p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span>flutter run</span></span></code></pre>\n<hr />\n<p>Under root directory, run the command below to build app.</p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span>flutter build apk</span></span></code></pre>\n<hr />\n<h1 id=\"widgets\"><a class=\"anchor\" href=\"#widgets\">#</a> Widgets</h1>\n",
             "tags": [
                 "FRC"
             ]
