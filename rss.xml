@@ -28,7 +28,9 @@
             <description><![CDATA[ &lt;p&gt;🚧UNDER CONSTRUCTION🚧&lt;/p&gt;
 &lt;h1 id=&#34;installation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#installation&#34;&gt;#&lt;/a&gt; Installation&lt;/h1&gt;
 &lt;p&gt;Install &lt;a href=&#34;https://docs.flutter.dev/install&#34;&gt;Flutter&lt;/a&gt;, &lt;a href=&#34;https://www.oracle.com/ca-en/java/technologies/downloads/&#34;&gt;Java JDK&lt;/a&gt; and &lt;a href=&#34;https://developer.android.com/studio&#34;&gt;Android Studio&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Clone the repo &lt;code&gt;git clone https://github.com/Simbotics/Scouting-Platform-Mobile&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Clone the repo&lt;/p&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;git clone https://github.com/Simbotics/Scouting-Platform-Mobile&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
 &lt;p&gt;Under root directory, run the command below to test the app locally.&lt;/p&gt;
 &lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;flutter run&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
